@@ -11,11 +11,11 @@ ustanoveních, takže agent dostane ten jeden paragraf místo celého kodexu.
 
 | | |
 |---|---|
-| **Sbírka zákonů** | 31 161 předpisů od roku 1918 |
+| **Sbírka zákonů** | 31 165 předpisů od roku 1918 |
 | **Mezinárodní smlouvy** | 2 263 |
 | **Právo EU** | 24 026 nařízení a směrnic česky |
-| **Judikatura** | 603 943 rozhodnutí, u 8 649 paragrafů |
-| dohromady | 57 450 předpisů, 482 473 ustanovení |
+| **Judikatura** | 603 943 rozhodnutí, u 8 666 paragrafů |
+| dohromady | 57 454 předpisů, 482 481 ustanovení |
 
 Je to zároveň Obsidian trezor — otevři složku v Obsidianu a máš rejstřík, prokliky mezi předpisy
 a tabulku v Bases. Bez Obsidianu je to obyčejný markdown, který přečte i poznámkový blok.
@@ -165,7 +165,7 @@ podobu českých zákonů, takže bez nich byla sbírka neúplná. Soubor se jme
 značkou a ECLI. Staví se z otevřených dat Ministerstva spravedlnosti. Pokrytí: **říjen 2020 až
 dnes**.
 
-**Údaj o zrušení** u 21 136 předpisů, značený na čtyřech místech, aby na něj nešlo narazit omylem:
+**Údaj o zrušení** u 21 137 předpisů, značený na čtyřech místech, aby na něj nešlo narazit omylem:
 frontmatter (`zruseno_k`, `zrusil`, tag `zruseno`), varovný callout nad textem, přeškrtnutí
 v `Rejstřík.md` (u práva EU v `Rejstřík EU.md`) a táž hlavička v rejstříku judikatury.
 

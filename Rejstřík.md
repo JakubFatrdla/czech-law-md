@@ -5,7 +5,7 @@ tags:
 
 # Rejstřík předpisů
 
-Celkem 27,071 předpisů, z toho 10,353 zrušených — ty jsou označené ~~přeškrtnutím~~ a datem. **Nepracuj s nimi jako s platným právem.**
+Celkem 27,075 předpisů, z toho 10,354 zrušených — ty jsou označené ~~přeškrtnutím~~ a datem. **Nepracuj s nimi jako s platným právem.**
 
 Generuje `tools/rejstrik.py`, needituj ručně.
 
@@ -181,6 +181,10 @@ Nejnovější změny jsou v [[CHANGELOG]].
 - [[166-2026|166/2026 Sb.]] Zákon, kterým se mění zákon č. 375/2022 Sb., o zdravotnických prostředcích a diagnostických zdravotnických prostředcích in vitro, ve znění pozdějších předpisů
 - [[167-2026|167/2026 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 83/2023 Sb., o stanovení podmínek poskytování přímých plateb zemědělcům, ve znění pozdějších předpisů, a některá další související nařízení vlády
 - [[168-2026|168/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 522/2006 Sb., o státním odborném dozoru a kontrolách v silniční dopravě, ve znění pozdějších předpisů
+- [[169-2026|169/2026 Sb.]] Sdělení Ministerstva práce a sociálních věcí, kterým se vyhlašuje normativní nájemné a normativní nájemné pro domácnost, jejíž všichni členové domácnosti jsou zranitelnými osobami, pro účely dávky státní sociální pomoci pro období od 1. října do 31. prosince 2026
+- [[170-2026|170/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 72/2005 Sb., o poskytování poradenských služeb ve školách a školských poradenských zařízeních, ve znění pozdějších předpisů
+- [[171-2026|171/2026 Sb.]] Sdělení Ministerstva práce a sociálních věcí o vyhlášení minimální mzdy, nejnižších úrovní zaručeného platu a rozpětí výše příplatku za práci ve ztíženém pracovním prostředí pro rok 2027
+- ~~[[172-2026|172/2026 Sb.]]~~ Nařízení vlády, kterým se vydává cenový výměr regulující ceny některých pohonných hmot pro období od 1. října do 31. října 2026 — *zrušeno 2026-11-01*
 
 ## 2025
 

@@ -3,6 +3,28 @@
 Co se kdy změnilo ve sbírce. Zapisuje `tools/changelog.py` po každé aktualizaci;
 strojový tvar téhož je v `.zmeny/posledni.json`.
 
+## 2026-09-28
+
+4 nových, 8 změněných.
+
+- **[[130-2002|130/2002 Sb.]]** Zákon o podpoře výzkumu a vývoje z veřejných prostředků a o změně některých souvisejících zákonů (zákon o podpoře výzkumu a vývoje) — znění k 2024-01-01 (novelizuje: 342/2005 Sb., 413/2005 Sb., 227/2006 Sb., 81/2006 Sb., 171/2007 Sb., 124/2008 Sb.)
+- **[[72-2005|72/2005 Sb.]]** Vyhláška o poskytování poradenských služeb ve školách a školských poradenských zařízeních — znění k 2026-01-01 (novelizuje: 116/2011 Sb., 103/2014 Sb., 197/2016 Sb., 248/2019 Sb., 607/2020 Sb., 46/2025 Sb.)
+- **[[76-2005|76/2005 Sb.]]** Vyhláška o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění — znění k 2025-01-01 (novelizuje: 56/2010 Sb., 62/2012 Sb., 340/2020 Sb., 406/2024 Sb.)
+- **[[78-2005|78/2005 Sb.]]** Vyhláška, kterou se mění vyhláška č. 77/2003 Sb., kterou se stanoví požadavky pro mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje, ve znění vyhlášky č. 124/2004 Sb. — znění k 2017-01-01
+- **[[56-2010|56/2010 Sb.]]** Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění — znění k 2010-02-26
+- **[[62-2012|62/2012 Sb.]]** Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění, ve znění vyhlášky č. 56/2010 Sb. — znění k 2012-02-29
+- **[[340-2020|340/2020 Sb.]]** Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění, ve znění pozdějších předpisů — znění k 2021-01-01
+- **[[406-2024|406/2024 Sb.]]** Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění, ve znění pozdějších předpisů — znění k 2025-01-01
+
+<details><summary>Nově přidáno (4)</summary>
+
+- [[169-2026|169/2026 Sb.]] Sdělení Ministerstva práce a sociálních věcí, kterým se vyhlašuje normativní nájemné a normativní nájemné pro domácnost, jejíž všichni členové domácnosti jsou zranitelnými osobami, pro účely dávky státní sociální pomoci pro období od 1. října do 31. prosince 2026
+- [[170-2026|170/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 72/2005 Sb., o poskytování poradenských služeb ve školách a školských poradenských zařízeních, ve znění pozdějších předpisů
+- [[171-2026|171/2026 Sb.]] Sdělení Ministerstva práce a sociálních věcí o vyhlášení minimální mzdy, nejnižších úrovní zaručeného platu a rozpětí výše příplatku za práci ve ztíženém pracovním prostředí pro rok 2027
+- [[172-2026|172/2026 Sb.]] Nařízení vlády, kterým se vydává cenový výměr regulující ceny některých pohonných hmot pro období od 1. října do 31. října 2026
+
+</details>
+
 ## 2026-09-23
 
 3 nových, 305 změněných.
