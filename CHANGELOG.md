@@ -3,6 +3,23 @@
 Co se kdy změnilo ve sbírce. Zapisuje `tools/changelog.py` po každé aktualizaci;
 strojový tvar téhož je v `.zmeny/posledni.json`.
 
+## 2026-10-12
+
+3 nových, 4 změněných.
+
+- **[[375-2022|375/2022 Sb.]]** Zákon o zdravotnických prostředcích a diagnostických zdravotnických prostředcích in vitro — znění k 2026-09-16 (novelizuje: 241/2024 Sb., 236/2025 Sb., 218/2025 Sb.)
+- **[[356-2024|356/2024 Sb.]]** Vyhláška o náležitostech formulářů žádosti o opis nebo výpis z rejstříku trestů a žádosti o opis z evidence přestupků — znění k 2025-01-01 (novelizuje: 182/2026 Sb.)
+- **[[166-2026|166/2026 Sb.]]** Zákon, kterým se mění zákon č. 375/2022 Sb., o zdravotnických prostředcích a diagnostických zdravotnických prostředcích in vitro, ve znění pozdějších předpisů — znění k 2026-09-16; dotčeno: Čl. I, § 8b, Čl. II, Čl. III
+- **[[172-2026|172/2026 Sb.]]** Nařízení vlády, kterým se vydává cenový výměr regulující ceny některých pohonných hmot pro období od 1. října do 31. října 2026 — znění k 2026-10-01
+
+<details><summary>Nově přidáno (3)</summary>
+
+- [[180-2026|180/2026 Sb.]] Zákon o evidenci tržeb a o změně některých dalších zákonů
+- [[181-2026|181/2026 Sb.]] Nařízení vlády o zavedení letního času v letech 2027 až 2031
+- [[182-2026|182/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 356/2024 Sb., o náležitostech formulářů žádosti o opis nebo výpis z rejstříku trestů a žádosti o opis z evidence přestupků
+
+</details>
+
 ## 2026-10-05
 
 7 nových, 21 změněných.
