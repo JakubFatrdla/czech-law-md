@@ -8654,7 +8654,7 @@ Předpisy, které pozbyly platnosti, jsou ~~přeškrtnuté~~ s datem. **Nepracuj
 - ~~[[32008L0113|32008L0113]]~~ SMĚRNICE KOMISE 2008/113/ES ze dne 8. prosince 2008, kterou se mění směrnice Rady 91/414/EHS za účelem zařazen — *pozbylo platnosti 2011-06-13*
 - [[32008L0113R(02)|32008L0113R(02)]] Oprava směrnice Komise 2008/113/ES ze dne 8. prosince 2008, kterou se mění směrnice Rady 91/414/EHS za účelem 
 - ~~[[32008L0114|32008L0114]]~~ SMĚRNICE RADY 2008/114/ES ze dne 8. prosince 2008 o určování a označování evropských kritických infrastruktur  — *pozbylo platnosti 2024-10-17*
-- [[32008L0115|32008L0115]] SMĚRNICE EVROPSKÉHO PARLAMENTU A RADY 2008/115/ES ze dne 16. prosince 2008 o společných normách a postupech v 
+- ~~[[32008L0115|32008L0115]]~~ SMĚRNICE EVROPSKÉHO PARLAMENTU A RADY 2008/115/ES ze dne 16. prosince 2008 o společných normách a postupech v  — *pozbylo platnosti 2027-10-16*
 - ~~[[32008L0116|32008L0116]]~~ SMĚRNICE KOMISE 2008/116/ES ze dne 15. prosince 2008, kterou se mění směrnice Rady 91/414/EHS za účelem zařaze — *pozbylo platnosti 2011-06-13*
 - [[32008L0117|32008L0117]] SMĚRNICE RADY 2008/117/ES ze dne 16. prosince 2008, kterou se mění směrnice 2006/112/ES o společném systému da
 - ~~[[32008L0118|32008L0118]]~~ SMĚRNICE RADY 2008/118/ES ze dne 16. prosince 2008 o obecné úpravě spotřebních daní a o zrušení směrnice 92/12 — *pozbylo platnosti 2023-02-12*
@@ -19523,7 +19523,7 @@ Předpisy, které pozbyly platnosti, jsou ~~přeškrtnuté~~ s datem. **Nepracuj
 - ~~[[32001L0037|32001L0037]]~~ Směrnice Evropského parlamentu A Rady 2001/37/ES — ze dne 5. června 2001 — *pozbylo platnosti 2016-05-19*
 - ~~[[32001L0038|32001L0038]]~~ Směrnice Evropského parlamentu a Rady 2001/38/ES — ze dne 5. června 2001, — *pozbylo platnosti 2015-12-18*
 - ~~[[32001L0039|32001L0039]]~~ Směrnice Komise 2001/39/ES — ze dne 23. května 2001, — *pozbylo platnosti 2008-08-31*
-- [[32001L0040|32001L0040]] Směrnice Rady 2001/40/ES — ze dne 28. května 2001
+- ~~[[32001L0040|32001L0040]]~~ Směrnice Rady 2001/40/ES — ze dne 28. května 2001 — *pozbylo platnosti 2027-10-16*
 - ~~[[32001L0041|32001L0041]]~~ Směrnice Evropského parlamentu a Rady 2001/41/ES — ze dne 19. června 2001, — *pozbylo platnosti 2009-05-31*
 - [[32001L0042|32001L0042]] Směrnice Evropského parlamentu a Rady 2001/42/ES — ze dne 27. června 2001
 - [[32001L0042R(02)|32001L0042R(02)]] Oprava směrnice Evropského parlamentu a Rady 2001/42/ES ze dne 27. června 2001 o posuzování vlivů některých pl

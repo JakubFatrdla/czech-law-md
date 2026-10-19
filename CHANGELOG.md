@@ -3,6 +3,37 @@
 Co se kdy změnilo ve sbírce. Zapisuje `tools/changelog.py` po každé aktualizaci;
 strojový tvar téhož je v `.zmeny/posledni.json`.
 
+## 2026-10-19
+
+8 nových, 13 změněných.
+
+- **[[32008L0115|32008L0115]]**
+- **[[32001L0040|u/2001/32001L0040.md]]**
+- **[[127-1995|127/1995 Sb.]]** Nařízení vlády České republiky o prohlášení území ucelených částí vybraných měst a obcí s dochovanými soubory lidové architektury za památkové rezervace — znění k 1995-07-25 (novelizuje: 179/2026 Sb.)
+- **[[418-2003|418/2003 Sb.]]** Vyhláška, kterou se stanoví podrobnější vymezení okruhu a výše příjmů a výdajů fondů veřejného zdravotního pojištění zdravotních pojišťoven, podmínky jejich tvorby, užití, přípustnosti vzájemných převodů finančních prostředků a hospodaření s nimi, limit nákladů na činnost zdravotních pojišťoven krytých ze zdrojů základního fondu včetně postupu propočtu tohoto limitu — znění k 2026-01-01 (novelizuje: 656/2004 Sb., 519/2005 Sb., 356/2007 Sb., 127/2010 Sb., 302/2012 Sb., 280/2014 Sb.)
+- **[[432-2010|432/2010 Sb.]]** Nařízení vlády o kritériích pro určení prvku kritické infrastruktury — znění k 2022-03-22 (novelizuje: 315/2014 Sb., 154/2020 Sb., 61/2022 Sb.)
+- **[[315-2014|315/2014 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 432/2010 Sb., o kritériích pro určení prvku kritické infrastruktury — znění k 2015-01-01
+- **[[245-2016|245/2016 Sb.]]** Vyhláška k provedení některých ustanovení celního zákona — znění k 2026-01-01 (novelizuje: 106/2019 Sb., 324/2019 Sb., 610/2020 Sb., 358/2021 Sb., 312/2022 Sb., 51/2024 Sb.)
+- **[[154-2020|154/2020 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 432/2010 Sb., o kritériích pro určení prvku kritické infrastruktury, ve znění nařízení vlády č. 315/2014 Sb. — znění k 2020-04-09
+- **[[140-2021|140/2021 Sb.]]** Vyhláška o energetickém auditu — znění k 2021-04-01
+- **[[61-2022|61/2022 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 432/2010 Sb., o kritériích pro určení prvku kritické infrastruktury, ve znění pozdějších předpisů — znění k 2022-03-22
+- **[[11-2023|11/2023 Sb.]]** Vyhláška o zdravotní způsobilosti ve vnitrozemské plavbě — znění k 2026-10-14 (novelizuje: 173/2026 Sb.)
+- **[[173-2026|173/2026 Sb.]]** Vyhláška, kterou se mění vyhláška č. 11/2023 Sb., o zdravotní způsobilosti ve vnitrozemské plavbě — znění k 2026-10-14
+- **[[179-2026|179/2026 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 127/1995 Sb., o prohlášení území ucelených částí vybraných měst a obcí s dochovanými soubory lidové architektury za památkové rezervace — znění k 2026-09-30; dotčeno: Čl. I, Čl. II, Čl. III
+
+<details><summary>Nově přidáno (8)</summary>
+
+- [[183-2026|183/2026 Sb.]] Vyhláška o energetickém auditu a systému hospodaření s energií
+- [[184-2026|184/2026 Sb.]] Sdělení Ministerstva práce a sociálních věcí, kterým se vyhlašuje výše částky rozhodné pro účast zaměstnanců činných na základě dohody o provedení práce na nemocenském pojištění
+- [[185-2026|185/2026 Sb.]] Sdělení Ministerstva práce a sociálních věcí, kterým se vyhlašuje pro účely nemocenského pojištění výše redukčních hranic pro úpravu denního vyměřovacího základu platných v roce 2027
+- [[186-2026|186/2026 Sb.]] Sdělení Ministerstva práce a sociálních věcí, kterým se vyhlašuje zvýšení částky rozhodné pro účast zaměstnanců na nemocenském pojištění
+- [[187-2026|187/2026 Sb.]] Nařízení vlády o stanovení některých podmínek poskytnutí mimořádné finanční podpory pro zemědělce postižené zvláštními problémy, které mají dopad na jejich hospodářskou životaschopnost a které vyplývají z krize na Blízkém východě
+- [[188-2026|188/2026 Sb.]] Sdělení Státní volební komise o vyhlášení celkových výsledků voleb do Senátu Parlamentu České republiky konaných ve dnech 9. a 10. října 2026 (I. kolo)
+- [[189-2026|189/2026 Sb.]] Sdělení Státní volební komise o vyhlášení celkových výsledků voleb do zastupitelstev obcí konaných ve dnech 9. a 10. října 2026
+- [[190-2026|190/2026 Sb.]] Vyhláška,  kterou se mění vyhláška č. 418/2003 Sb., kterou se stanoví podrobnější vymezení okruhu a výše příjmů a výdajů fondů veřejného zdravotního pojištění zdravotních pojišťoven, podmínky jejich tvorby, užití, přípustnosti vzájemných převodů finančních prostředků a hospodaření s nimi, limit nákladů na činnost zdravotních pojišťoven krytých ze zdrojů základního fondu včetně postupu propočtu tohoto limitu, ve znění pozdějších předpisů
+
+</details>
+
 ## 2026-10-12
 
 3 nových, 4 změněných.
