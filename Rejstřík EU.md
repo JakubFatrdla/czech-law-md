@@ -22465,7 +22465,7 @@ Předpisy, které pozbyly platnosti, jsou ~~přeškrtnuté~~ s datem. **Nepracuj
 - ~~[[31991L0382|31991L0382]]~~ Směrnice Rady — ze dne 25. června 1991, — *pozbylo platnosti 2011-01-04*
 - [[31991L0383|31991L0383]] Směrnice Rady — ze dne 25. června 1991,
 - ~~[[31991L0410|31991L0410]]~~ Směrnice Komise — ze dne 22. července 1991, — *pozbylo platnosti 2015-05-31*
-- [[31991L0412|31991L0412]] Směrnice Komise — ze dne 23. července 1991,
+- ~~[[31991L0412|31991L0412]]~~ Směrnice Komise — ze dne 23. července 1991, — *pozbylo platnosti 2026-10-20*
 - ~~[[31991L0414|31991L0414]]~~ Směrnice Rady — ze dne 15. července 1991 — *pozbylo platnosti 2011-06-13*
 - ~~[[31991L0422|31991L0422]]~~ Směrnice Komise — ze dne 15. července 1991, — *pozbylo platnosti 2014-10-31*
 - ~~[[31991L0439|31991L0439]]~~ Směrnice Rady — ze dne 29. července 1991 — *pozbylo platnosti 2013-01-18*
