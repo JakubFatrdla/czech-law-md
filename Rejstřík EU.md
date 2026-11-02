@@ -8196,7 +8196,7 @@ Předpisy, které pozbyly platnosti, jsou ~~přeškrtnuté~~ s datem. **Nepracuj
 - [[32009R0984|32009R0984]] NAŘÍZENÍ KOMISE (ES) č. 984/2009 ze dne 21. října 2009 o zamítnutí schválení určitých zdravotních tvrzení při 
 - [[32009R0985|32009R0985]] NAŘÍZENÍ KOMISE (ES) č. 985/2009 ze dne 21. října 2009 o zapsání názvu do rejstříku chráněných označení původu
 - [[32009R0986|32009R0986]] NAŘÍZENÍ KOMISE (ES) č. 986/2009 ze dne 21. října 2009 o zapsání názvu do rejstříku chráněných označení původu
-- [[32009R0987|32009R0987]] NAŘÍZENÍ EVROPSKÉHO PARLAMENTU A RADY (ES) č. 987/2009 ze dne 16. září 2009, kterým se stanoví prováděcí pravi
+- ~~[[32009R0987|32009R0987]]~~ NAŘÍZENÍ EVROPSKÉHO PARLAMENTU A RADY (ES) č. 987/2009 ze dne 16. září 2009, kterým se stanoví prováděcí pravi — *pozbylo platnosti 2033-11-02*
 - [[32009R0987R(02)|32009R0987R(02)]] Oprava nařízení Evropského parlamentu a Rady (ES) č. 987/2009 ze dne 16. září 2009, kterým se stanoví prováděc
 - [[32009R0988|32009R0988]] NAŘÍZENÍ EVROPSKÉHO PARLAMENTU A RADY (ES) č. 988/2009 ze dne 16. září 2009, kterým se mění nařízení (ES) č. 8
 - ~~[[32009R0989|32009R0989]]~~ NAŘÍZENÍ RADY (ES) č. 989/2009 ze dne 19. října 2009, kterým se mění nařízení (ES) č. 661/2008 o uložení koneč — *pozbylo platnosti 2013-07-12*
@@ -16898,7 +16898,7 @@ Předpisy, které pozbyly platnosti, jsou ~~přeškrtnuté~~ s datem. **Nepracuj
 - ~~[[32004R0880|32004R0880]]~~ Nařízení Komise (ES) č. 880/2004 — ze dne 29. dubna 2004, — *pozbylo platnosti 2021-05-29*
 - ~~[[32004R0881|32004R0881]]~~ Nařízení Evropského parlamentu a Rady (ES) č. 881/2004 — ze dne 29. dubna 2004 — *pozbylo platnosti 2016-06-14*
 - ~~[[32004R0882|32004R0882]]~~ Nařízení Evropského Parlamentu a Rady (ES) č. 882/2004 — ze dne 29. dubna 2004 — *pozbylo platnosti 2019-12-13*
-- [[32004R0883|32004R0883]] Nařízení Evropského parlamentu a Rady (ES) č. 883/2004 — ze dne 29. dubna 2004
+- ~~[[32004R0883|32004R0883]]~~ Nařízení Evropského parlamentu a Rady (ES) č. 883/2004 — ze dne 29. dubna 2004 — *pozbylo platnosti 2033-11-02*
 - [[32004R0883R(06)|32004R0883R(06)]] Oprava nařízení Evropského parlamentu a Rady (ES) č. 883/2004 ze dne 29. dubna 2004 o koordinaci systémů sociá
 - ~~[[32004R0885|32004R0885]]~~ NAŘÍZENÍ RADY (ES) č. 885/2004 ze dne 26. dubna 2004, kterým se z důvodu přistoupení České republiky, Estonska — *pozbylo platnosti 2029-12-31*
 - [[32004R0886|32004R0886]] NAŘÍZENÍ KOMISE (ES) č. 886/2004 ze dne 4. března 2004, kterým se v důsledku přistoupení České republiky, Esto

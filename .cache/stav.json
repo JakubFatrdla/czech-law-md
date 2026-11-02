@@ -665,11 +665,12 @@
   "zmena": "2024-05-28T15:37:19.231"
  },
  "1/2019 Sb.": {
-  "dokument_id": "917312",
+  "dokument_id": "2079129",
   "nazev": "Nařízení vlády o oborech státní služby",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2019/1-2019.md",
-  "ucinnost_od": "2025-07-01",
-  "zmena": "2025-01-28T07:09:56.131"
+  "ucinnost_od": "2026-10-31",
+  "zmena": "2026-10-29T18:23:09.351"
  },
  "1/2019 Sb. m. s.": {
   "dokument_id": "223575",
@@ -8958,11 +8959,12 @@
   "zmena": "2025-05-12T09:49:28.413"
  },
  "110/2026 Sb.": {
-  "dokument_id": "6556",
+  "dokument_id": "2079091",
   "nazev": "Nařízení vlády, kterým se mění nařízení vlády  č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu, ve znění pozdějších předpisů ",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2026/110-2026.md",
   "ucinnost_od": "2026-07-01",
-  "zmena": "2026-06-25T10:47:43.024"
+  "zmena": "2026-10-26T12:37:03.679"
  },
  "111/1931 Sb.": {
   "dokument_id": "659",
@@ -24557,11 +24559,12 @@
   "zmena": "2024-05-23T06:28:33.439"
  },
  "136/2015 Sb.": {
-  "dokument_id": "917306",
+  "dokument_id": "2079125",
   "nazev": "Nařízení vlády o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2015/136-2015.md",
-  "ucinnost_od": "2025-07-01",
-  "zmena": "2025-01-28T07:09:54.162"
+  "ucinnost_od": "2026-10-31",
+  "zmena": "2026-10-29T18:04:45.771"
  },
  "136/2016 Sb.": {
   "dokument_id": "145345",
@@ -48357,11 +48360,11 @@
   "zmena": "2025-06-17T12:28:10.376"
  },
  "183/2026 Sb.": {
-  "dokument_id": "8780",
+  "dokument_id": "8782",
   "nazev": "Vyhláška o energetickém auditu a systému hospodaření s energií ",
-  "pristi_zneni_od": "2026-11-01",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2026/183-2026.md",
-  "ucinnost_od": "2026-10-13",
+  "ucinnost_od": "2026-11-01",
   "zmena": "2026-10-13T12:26:20.663"
  },
  "184/1922 Sb.": {
@@ -54592,6 +54595,14 @@
   "ucinnost_od": "2025-07-01",
   "zmena": "2025-12-23T16:07:22.732"
  },
+ "199/2026 Sb.": {
+  "dokument_id": "2079123",
+  "nazev": "Nařízení vlády, kterým se mění nařízení vlády č. 136/2015 Sb., o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky, ve znění pozdějších předpisů, a nařízení vlády č. 1/2019 Sb., o oborech státní služby, ve znění pozdějších předpisů",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/199-2026.md",
+  "ucinnost_od": "2026-10-31",
+  "zmena": "2026-10-29T17:53:33.609"
+ },
  "2/1925 Sb.": {
   "dokument_id": "60283",
   "nazev": "Vyhláška ministra financí o provedení úmluvy mezi republikou Československou a královstvím Maďarským o vydání deposit a způsobu úhrady závazků z cenných papírů a jich kuponů.",
@@ -56469,6 +56480,14 @@
   "ucinnost_od": "2025-06-24",
   "zmena": "2025-07-08T13:04:55.333"
  },
+ "200/2026 Sb.": {
+  "dokument_id": "2079153",
+  "nazev": "Nařízení vlády o podmínkách, za kterých lze zřídit organizační útvar správního úřadu",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/200-2026.md",
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-10-30T16:53:49.475"
+ },
  "201/1924 Sb.": {
   "dokument_id": "283",
   "nazev": "Vyhláška ministra financí, kterou se uveřejňuje úmluva o postupu hypotekárních pohledávek Rakousko-uherské banky, zajištěných na nemovitostech, ležících na československém území, na stát československý, schválená vládou republiky Československé dne 29. srpna 1924.",
@@ -56799,6 +56818,14 @@
   "ucinnost_od": "2025-07-01",
   "zmena": "2025-07-08T13:24:06.719"
  },
+ "201/2026 Sb.": {
+  "dokument_id": "2079099",
+  "nazev": "Sdělení Českého úřadu zeměměřického a katastrálního Seznam katastrálních pracovišť katastrálních úřadů, jejich názvy, sídla a územní obvody, ve kterých vykonávají působnost příslušného katastrálního úřadu k 1. prosinci 2026",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/201-2026.md",
+  "ucinnost_od": "0000-00-00",
+  "zmena": "2026-10-26T16:28:59.071"
+ },
  "202/1922 Sb.": {
   "dokument_id": "60255",
   "nazev": "Nařízení vlády republiky Československé, jímž se pozměňuje, po případě doplňuje nařízení vlády republiky Československé ze dne 4. března 1920, č. 151 Sb. z. a n., a nařízení vlády republiky Československé ze dne 30. prosince 1920, č. 12 Sb. z. a n. z roku 1921.",
@@ -57127,6 +57154,14 @@
   "soubor": "zakony/2025/202-2025.md",
   "ucinnost_od": "2025-07-01",
   "zmena": "2025-07-08T14:23:32.392"
+ },
+ "202/2026 Sb.": {
+  "dokument_id": "8882",
+  "nazev": "Nález Ústavního soudu sp. zn. Pl. ÚS 1/25 ve věci návrhu na zrušení nařízení vlády č. 272/2011 Sb., o ochraně zdraví před nepříznivými účinky hluku a vibrací, ve znění pozdějších předpisů, nebo alternativně na zrušení jeho přílohy č. 3 části A",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/202-2026.md",
+  "ucinnost_od": "0000-00-00",
+  "zmena": "2026-10-26T08:26:02.797"
  },
  "203/1932 Sb.": {
   "dokument_id": "765",
@@ -57464,6 +57499,14 @@
   "ucinnost_od": "2026-01-01",
   "zmena": "2025-07-08T16:01:02.064"
  },
+ "203/2026 Sb.": {
+  "dokument_id": "8908",
+  "nazev": "Nařízení vlády, kterým se vydává cenový výměr regulující ceny některých pohonných hmot pro období od 1. listopadu 2026 do 30. listopadu 2026",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/203-2026.md",
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-10-26T16:44:31.054"
+ },
  "204/1930 Sb.": {
   "dokument_id": "629",
   "nazev": "Vyhláška o rozšíření působnosti smlouvy mezi republikou Československou a Spojeným královstvím Velké Britanie a Irska ze dne 11. listopadu 1924 o právní pomoci ve věcech občanských na území Skotska.",
@@ -57786,6 +57829,14 @@
   "ucinnost_od": "2025-07-01",
   "zmena": "2025-07-08T16:25:04.078"
  },
+ "204/2026 Sb.": {
+  "dokument_id": "2079131",
+  "nazev": "Vyhláška, kterou se mění vyhláška č. 134/1998 Sb., kterou se vydává seznam zdravotních výkonů s bodovými hodnotami, ve znění pozdějších předpisů",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/204-2026.md",
+  "ucinnost_od": "0000-00-00",
+  "zmena": "2026-10-30T09:14:15.305"
+ },
  "205/1946 Sb.": {
   "dokument_id": "61133",
   "nazev": "Nařízení, kterým se stanoví jednotné účetní zásady",
@@ -58101,6 +58152,14 @@
   "ucinnost_od": "2025-07-01",
   "zmena": "2025-07-08T21:05:50.411"
  },
+ "205/2026 Sb.": {
+  "dokument_id": "2079133",
+  "nazev": "Vyhláška o stanovení hodnot bodu, výše úhrad hrazených služeb, výše záloh na úhradu hrazených služeb a regulačních omezení pro rok 2027",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/205-2026.md",
+  "ucinnost_od": "0000-00-00",
+  "zmena": "2026-10-30T09:45:44.158"
+ },
  "206/1946 Sb.": {
   "dokument_id": "61125",
   "nazev": "Zákon o zvláštních služebních přídavcích justičních důstojníků z povolání, důstojníků a gážistů mimo služební třídy soudní kancelářské služby z povolání a ostatních zaměstnanců vojenských justičních úřadů",
@@ -58415,6 +58474,14 @@
   "soubor": "zakony/2025/206-2025.md",
   "ucinnost_od": "2025-07-01",
   "zmena": "2025-06-24T08:42:10.787"
+ },
+ "206/2026 Sb.": {
+  "dokument_id": "2079141",
+  "nazev": "Vyhláška, kterou se mění vyhláška č. 388/2025 Sb., o formulářových podáních pro daň z nemovitých věcí ",
+  "pristi_zneni_od": "2027-01-01",
+  "soubor": "zakony/2026/206-2026.md",
+  "ucinnost_od": "2026-10-30",
+  "zmena": "2026-10-30T12:54:33.619"
  },
  "207/1926 Sb.": {
   "dokument_id": "415",
@@ -58738,6 +58805,14 @@
   "soubor": "zakony/2025/207-2025.md",
   "ucinnost_od": "0000-00-00",
   "zmena": "2025-06-24T08:50:29.913"
+ },
+ "207/2026 Sb.": {
+  "dokument_id": "8956",
+  "nazev": "Vyhláška o vzorech služebního průkazu v orgánu finanční správy ",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/207-2026.md",
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-10-30T08:13:40.661"
  },
  "208/1923 Sb.": {
   "dokument_id": "251",
@@ -59067,6 +59142,14 @@
   "soubor": "zakony/2025/208-2025.md",
   "ucinnost_od": "2025-07-01",
   "zmena": "2025-07-08T21:38:22.964"
+ },
+ "208/2026 Sb.": {
+  "dokument_id": "8968",
+  "nazev": "Nařízení vlády, kterým se mění nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění pozdějších předpisů, a nařízení vlády č. 542/2025 Sb., o oceněních udělovaných Úřadem vlády České republiky ",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/208-2026.md",
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-10-31T04:58:54.816"
  },
  "209/1923 Sb.": {
   "dokument_id": "253",
@@ -82517,11 +82600,12 @@
   "zmena": "2024-05-22T10:10:54.907"
  },
  "271/2017 Sb.": {
-  "dokument_id": "3088",
+  "dokument_id": "8970",
   "nazev": "Nařízení vlády o oceněních udělovaných Ministerstvem vnitra",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2017/271-2017.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-12-16T08:54:10.969"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-10-31T04:58:54.816"
  },
  "271/2018 Sb.": {
   "dokument_id": "149633",
@@ -118606,8 +118690,9 @@
   "zmena": "2025-01-06T09:00:19.399"
  },
  "388/2025 Sb.": {
-  "dokument_id": "2071163",
+  "dokument_id": "8950",
   "nazev": "Vyhláška o formulářových podáních pro daň z nemovitých věcí",
+  "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2025/388-2025.md",
   "ucinnost_od": "2026-01-01",
   "zmena": "2026-05-28T16:04:27.933"
@@ -135232,11 +135317,12 @@
   "zmena": "2024-05-22T10:14:30.692"
  },
  "450/2024 Sb.": {
-  "dokument_id": "917328",
+  "dokument_id": "2079097",
   "nazev": "Nařízení vlády, kterým se mění nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu, ve znění nařízení vlády č. 463/2023 Sb.",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2024/450-2024.md",
   "ucinnost_od": "2025-01-01",
-  "zmena": "2025-01-28T08:06:41.005"
+  "zmena": "2026-10-26T12:37:03.679"
  },
  "450/2025 Sb.": {
   "dokument_id": "2061171",
@@ -138094,11 +138180,12 @@
   "zmena": "2024-05-23T08:13:05.400"
  },
  "463/2023 Sb.": {
-  "dokument_id": "157943",
+  "dokument_id": "2079095",
   "nazev": "Nařízení vlády, kterým se mění nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2023/463-2023.md",
   "ucinnost_od": "2024-07-01",
-  "zmena": "2024-05-23T08:24:17.629"
+  "zmena": "2026-10-26T12:37:03.679"
  },
  "463/2024 Sb.": {
   "dokument_id": "917662",
@@ -152223,11 +152310,12 @@
   "zmena": "2025-07-24T13:29:43.436"
  },
  "542/2025 Sb.": {
-  "dokument_id": "3058",
+  "dokument_id": "8972",
   "nazev": "Nařízení vlády o oceněních udělovaných Úřadem vlády České republiky",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2025/542-2025.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-12-16T08:27:50.319"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-10-31T04:58:54.816"
  },
  "543/1990 Sb.": {
   "dokument_id": "84991",
@@ -177748,11 +177836,12 @@
   "zmena": "2024-05-22T10:11:38.830"
  },
  "81/2019 Sb.": {
-  "dokument_id": "150083",
+  "dokument_id": "2079137",
   "nazev": "Vyhláška o vzorech služebního průkazu v orgánu finanční správy",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2019/81-2019.md",
   "ucinnost_od": "2019-04-01",
-  "zmena": "2024-05-23T07:32:16.852"
+  "zmena": "2026-10-30T10:10:48.014"
  },
  "81/2020 Sb.": {
   "dokument_id": "55797",
@@ -185607,11 +185696,12 @@
   "zmena": "2024-05-22T10:09:58.750"
  },
  "92/2015 Sb.": {
-  "dokument_id": "6558",
+  "dokument_id": "2079093",
   "nazev": "Nařízení vlády o pravidlech pro organizaci služebního úřadu",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2015/92-2015.md",
   "ucinnost_od": "2026-07-01",
-  "zmena": "2026-06-25T10:47:43.024"
+  "zmena": "2026-10-26T12:37:03.679"
  },
  "92/2016 Sb.": {
   "dokument_id": "145149",

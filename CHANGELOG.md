@@ -3,6 +3,41 @@
 Co se kdy změnilo ve sbírce. Zapisuje `tools/changelog.py` po každé aktualizaci;
 strojový tvar téhož je v `.zmeny/posledni.json`.
 
+## 2026-11-02
+
+10 nových, 15 změněných.
+
+- **[[32009R0987|32009R0987]]**
+- **[[32004R0883|u/2004/32004R0883.md]]**
+- **[[265-1991|265/1991 Sb.]]** Zákon České národní rady o působnosti orgánů České republiky v oblasti cen — znění k 2024-01-01 (novelizuje: 135/1994 Sb., 151/1997 Sb., 151/2000 Sb., 458/2000 Sb., 320/2002 Sb., 354/2003 Sb.)
+- **[[450-2009|450/2009 Sb.]]** Vyhláška, kterou se provádí zákon č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů — znění k 2009-12-21
+- **[[136-2015|136/2015 Sb.]]** Nařízení vlády o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky — znění k 2026-10-31 (novelizuje: 157/2019 Sb., 62/2022 Sb., 449/2024 Sb., 199/2026 Sb.)
+- **[[92-2015|92/2015 Sb.]]** Nařízení vlády o pravidlech pro organizaci služebního úřadu — znění k 2026-07-01 (novelizuje: 463/2023 Sb., 450/2024 Sb., 110/2026 Sb.)
+- **[[271-2017|271/2017 Sb.]]** Nařízení vlády o oceněních udělovaných Ministerstvem vnitra — znění k 2026-11-01 (novelizuje: 394/2020 Sb., 251/2020 Sb., 308/2023 Sb., 409/2024 Sb., 543/2025 Sb., 208/2026 Sb.)
+- **[[1-2019|1/2019 Sb.]]** Nařízení vlády o oborech státní služby — znění k 2026-10-31 (novelizuje: 62/2022 Sb., 449/2024 Sb., 199/2026 Sb.)
+- **[[81-2019|81/2019 Sb.]]** Vyhláška o vzorech služebního průkazu v orgánu finanční správy — znění k 2019-04-01
+- **[[463-2023|463/2023 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu — znění k 2024-07-01
+- **[[450-2024|450/2024 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu, ve znění nařízení vlády č. 463/2023 Sb. — znění k 2025-01-01
+- **[[388-2025|388/2025 Sb.]]** Vyhláška o formulářových podáních pro daň z nemovitých věcí — znění k 2026-01-01 (novelizuje: 206/2026 Sb.)
+- **[[542-2025|542/2025 Sb.]]** Nařízení vlády o oceněních udělovaných Úřadem vlády České republiky — znění k 2026-11-01 (novelizuje: 208/2026 Sb.)
+- **[[110-2026|110/2026 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády  č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu, ve znění pozdějších předpisů — znění k 2026-07-01
+- **[[183-2026|183/2026 Sb.]]** Vyhláška o energetickém auditu a systému hospodaření s energií — znění k 2026-11-01
+
+<details><summary>Nově přidáno (10)</summary>
+
+- [[199-2026|199/2026 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 136/2015 Sb., o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky, ve znění pozdějších předpisů, a nařízení vlády č. 1/2019 Sb., o oborech státní služby, ve znění pozdějších předpisů
+- [[200-2026|200/2026 Sb.]] Nařízení vlády o podmínkách, za kterých lze zřídit organizační útvar správního úřadu
+- [[201-2026|201/2026 Sb.]] Sdělení Českého úřadu zeměměřického a katastrálního Seznam katastrálních pracovišť katastrálních úřadů, jejich názvy, sídla a územní obvody, ve kterých vykonávají působnost příslušného katastrálního úřadu k 1. prosinci 2026
+- [[202-2026|202/2026 Sb.]] Nález Ústavního soudu sp. zn. Pl. ÚS 1/25 ve věci návrhu na zrušení nařízení vlády č. 272/2011 Sb., o ochraně zdraví před nepříznivými účinky hluku a vibrací, ve znění pozdějších předpisů, nebo alternativně na zrušení jeho přílohy č. 3 části A
+- [[203-2026|203/2026 Sb.]] Nařízení vlády, kterým se vydává cenový výměr regulující ceny některých pohonných hmot pro období od 1. listopadu 2026 do 30. listopadu 2026
+- [[204-2026|204/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 134/1998 Sb., kterou se vydává seznam zdravotních výkonů s bodovými hodnotami, ve znění pozdějších předpisů
+- [[205-2026|205/2026 Sb.]] Vyhláška o stanovení hodnot bodu, výše úhrad hrazených služeb, výše záloh na úhradu hrazených služeb a regulačních omezení pro rok 2027
+- [[206-2026|206/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 388/2025 Sb., o formulářových podáních pro daň z nemovitých věcí
+- [[207-2026|207/2026 Sb.]] Vyhláška o vzorech služebního průkazu v orgánu finanční správy
+- [[208-2026|208/2026 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění pozdějších předpisů, a nařízení vlády č. 542/2025 Sb., o oceněních udělovaných Úřadem vlády České republiky
+
+</details>
+
 ## 2026-10-26
 
 8 nových, 9 změněných.
