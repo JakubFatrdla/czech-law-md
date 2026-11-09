@@ -5,7 +5,7 @@ tags:
 
 # Rejstřík předpisů
 
-Celkem 27,111 předpisů, z toho 10,361 zrušených — ty jsou označené ~~přeškrtnutím~~ a datem. **Nepracuj s nimi jako s platným právem.**
+Celkem 27,117 předpisů, z toho 10,372 zrušených — ty jsou označené ~~přeškrtnutím~~ a datem. **Nepracuj s nimi jako s platným právem.**
 
 Generuje `tools/rejstrik.py`, needituj ručně.
 
@@ -221,6 +221,12 @@ Nejnovější změny jsou v [[CHANGELOG]].
 - [[206-2026|206/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 388/2025 Sb., o formulářových podáních pro daň z nemovitých věcí
 - [[207-2026|207/2026 Sb.]] Vyhláška o vzorech služebního průkazu v orgánu finanční správy
 - [[208-2026|208/2026 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění pozdějších předpisů, a nařízení vlády č. 542/2025 Sb., o oceněních udělovaných Úřadem vlády České republiky
+- [[209-2026|209/2026 Sb.]] Vyhláška o Programu statistických zjišťování na rok 2027
+- [[210-2026|210/2026 Sb.]] Sdělení Ministerstva vnitra o vyhlášení dodatečných voleb do zastupitelstev obcí
+- [[211-2026|211/2026 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů
+- ~~[[212-2026|212/2026 Sb.]]~~ Nařízení vlády o mimořádném pracovním vízu pro státní příslušníky některých států pracující v zemědělství, potravinářství nebo lesnictví  — *zrušeno 2029-01-01*
+- [[213-2026|213/2026 Sb.]] Sdělení Ministerstva zahraničních věcí o sjednání Rámcové smlouvy mezi Českou republikou a Slovenskou republikou o přeshraniční spolupráci v oblasti zdravotnické záchranné služby
+- [[214-2026|214/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 122/2015 Sb., o způsobu vnějšího označení, služebních stejnokrojích a zvláštním barevném provedení a označení služebních vozidel, plavidel a letadel Policie České republiky a o prokazování příslušnosti k Policii České republiky (o policejním označení), ve znění pozdějších předpisů
 
 ## 2025
 
@@ -1123,7 +1129,7 @@ ke službě v bezpečnostních sborech
 - [[307-2024|307/2024 Sb.]] Sdělení Ministerstva práce a sociálních věcí, kterým se vyhlašuje pro účely nemocenského pojištění výše redukčních hranic pro úpravu denního vyměřovacího základu platných v roce 2025
 - [[308-2024|308/2024 Sb.]] Sdělení Ministerstva práce a sociálních věcí, kterým se vyhlašuje zvýšení částky rozhodné pro účast zaměstnanců na nemocenském pojištění
 - [[309-2024|309/2024 Sb.]] Vyhláška, kterou se mění vyhláška č. 474/2000 Sb., o stanovení požadavků na hnojiva, ve znění pozdějších předpisů
-- [[310-2024|310/2024 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 135/2015 Sb., o dalších překážkách ve státní službě, za které přísluší státnímu zaměstnanci plat
+- ~~[[310-2024|310/2024 Sb.]]~~ Nařízení vlády, kterým se mění nařízení vlády č. 135/2015 Sb., o dalších překážkách ve státní službě, za které přísluší státnímu zaměstnanci plat — *zrušeno 2026-11-01*
 - [[311-2024|311/2024 Sb.]] Vyhláška, kterou se mění vyhláška Ministerstva spravedlnosti č. 418/2001 Sb., o postupech při výkonu exekuční a další činnosti, ve znění pozdějších předpisů
 - [[312-2024|312/2024 Sb.]] Nařízení vlády o poskytování náhrad některých výdajů státním zástupcům přiděleným k výkonu funkce státního zástupce v zahraničí
 - [[313-2024|313/2024 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 270/2024 Sb., o použití Armády České republiky v období od 17. září 2024 do 31. října 2024 k likvidaci následků pohromy způsobené povodněmi na území České republiky
@@ -4498,7 +4504,7 @@ ke službě v bezpečnostních sborech
 - [[42-2017-ms|42/2017 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o přijetí konsolidovaného seznamu změn a doplňků k přílohám Evropské dohody o mezinárodní přepravě nebezpečných věcí po vnitrozemských vodních cestách (ADN)
 - [[43-2017|43/2017 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů
 - [[43-2017-ms|43/2017 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o sjednání Dohody mezi vládou České republiky a vládou Bahrajnského království o letecké dopravě
-- [[44-2017|44/2017 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 137/2015 Sb., o dalších případech, ve kterých lze přijmout osobu do služebního poměru na dobu určitou
+- ~~[[44-2017|44/2017 Sb.]]~~ Nařízení vlády, kterým se mění nařízení vlády č. 137/2015 Sb., o dalších případech, ve kterých lze přijmout osobu do služebního poměru na dobu určitou — *zrušeno 2026-11-01*
 - [[44-2017-ms|44/2017 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o sjednání Ujednání mezi Ministerstvem vnitra České republiky a Spolkovým ministerstvem vnitra Spolkové republiky Německo k provedení článku 21 Smlouvy mezi Českou republikou a Spolkovou republikou Německo o policejní spolupráci a o změně Smlouvy mezi Českou republikou a Spolkovou republikou Německo o dodatcích k Evropské úmluvě o vzájemné pomoci ve věcech trestních z 20. dubna 1959 a usnadnění jejího používání ze dne 2. února 2000, z 28. dubna 2015
 - [[45-2017|45/2017 Sb.]] Sdělení Ministerstva financí, jímž se určují emisní podmínky pro Státní dluhopis České republiky, 2017-2022, 0,00 %
 - [[45-2017-ms|45/2017 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o sjednání Změny č. 3 Protokolu mezi Ministerstvem zahraničních věcí České republiky a Ministerstvem zahraničních věcí Slovenské republiky o provádění Dohody mezi Ministerstvem zahraničních věcí České republiky a Ministerstvem zahraničních věcí Slovenské republiky o vzájemném zastupování prostřednictvím diplomatických misí a konzulárních úřadů svých států při výkonu vízové činnosti
@@ -4635,7 +4641,7 @@ ke službě v bezpečnostních sborech
 - [[141-2017|141/2017 Sb.]] Vyhláška, kterou se mění vyhláška č. 172/2015 Sb., o informační povinnosti příjemce potravin v místě určení
 - [[142-2017|142/2017 Sb.]] Sdělení Ministerstva práce a sociálních věcí o rozšíření závaznosti Kolektivní smlouvy vyššího stupně
 - [[143-2017|143/2017 Sb.]] Sdělení Ministerstva vnitra o vyhlášení nových voleb do zastupitelstva obce
-- [[144-2017|144/2017 Sb.]] Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů
+- ~~[[144-2017|144/2017 Sb.]]~~ Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů — *zrušeno 2026-11-01*
 - [[145-2017|145/2017 Sb.]] Zákon, kterým se mění zákon č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů
 - ~~[[146-2017|146/2017 Sb.]]~~ Zákon, kterým se mění zákon č. 130/2002 Sb., o podpoře výzkumu, experimentálního vývoje a inovací z veřejných prostředků a o změně některých souvisejících zákonů (zákon o podpoře výzkumu, experimentálního vývoje a inovací), ve znění pozdějších předpisů — *zrušeno 2027-01-01*
 - [[147-2017|147/2017 Sb.]] Zákon, kterým se mění zákon č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů
@@ -5021,7 +5027,7 @@ ke službě v bezpečnostních sborech
 - [[24-2016-ms|24/2016 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o přijetí Českou republikou změny Přílohy I Úmluvy o účincích průmyslových havárií přesahujících hranice států
 - ~~[[25-2016|25/2016 Sb.]]~~ Vyhláška o zrušení některých právních předpisů o vyhlášení zvláště chráněných území — *zrušeno 2024-01-01*
 - [[25-2016-ms|25/2016 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o opravě sdělení Ministerstva zahraničních věcí č. 17/2016 Sb. m. s.
-- [[26-2016|26/2016 Sb.]] Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů
+- ~~[[26-2016|26/2016 Sb.]]~~ Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů — *zrušeno 2026-11-01*
 - [[26-2016-ms|26/2016 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o pozastavení provádění a výpovědi Smlouvy o zdanění příjmů z úspor mezi Českou republikou a Guernsey, vyhlášené pod č. 49/2008 Sb. m. s.
 - [[27-2016|27/2016 Sb.]] Vyhláška o vzdělávání žáků se speciálními vzdělávacími potřebami a žáků nadaných
 - [[27-2016-ms|27/2016 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o pozastavení provádění a výpovědi Smlouvy o zdanění příjmů z úspor mezi Českou republikou a Jersey, vyhlášené pod č. 50/2008 Sb. m. s
@@ -5633,7 +5639,7 @@ ke službě v bezpečnostních sborech
 - [[61-2015-ms|61/2015 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o sjednání Dohody o Visegrádském patentovém institutu
 - ~~[[62-2015|62/2015 Sb.]]~~ Vyhláška o provedení některých ustanovení zákona o zdravotnických prostředcích — *zrušeno 2022-12-22*
 - [[62-2015-ms|62/2015 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o sjednání Ujednání mezi Ministerstvem zahraničních věcí České republiky a Ministerstvem zahraničních věcí Čínské lidové republiky o zavedení zjednodušené vízové praxe pro cestující za účelem obchodu, na základě rovného a recipročního přístupu
-- [[63-2015|63/2015 Sb.]] Vyhláška o vzoru průkazu státního zaměstnance pověřeného vykonávat ve služebních úřadech kontrolu ve služebních vztazích státních zaměstnanců
+- ~~[[63-2015|63/2015 Sb.]]~~ Vyhláška o vzoru průkazu státního zaměstnance pověřeného vykonávat ve služebních úřadech kontrolu ve služebních vztazích státních zaměstnanců — *zrušeno 2026-11-01*
 - [[63-2015-ms|63/2015 Sb. m. s.]] Sdělení Ministerstva zahraničních věcí o sjednání Ujednání mezi Ministerstvem zahraničních věcí České republiky a Ministerstvem zahraničních věcí Čínské lidové republiky o vzájemném udělování vícevstupových víz držitelům diplomatických pasů ke krátkodobým oficiálním návštěvám
 - ~~[[64-2015|64/2015 Sb.]]~~ Vyhláška, kterou se mění vyhláška č. 380/2003 Sb., o veterinárních požadavcích na obchodování se spermatem, vaječnými buňkami a embryi a o veterinárních podmínkách jejich dovozu ze třetích zemí, ve znění pozdějších předpisů — *zrušeno 2022-10-01*
 - ~~[[64-2015-ms|64/2015 Sb. m. s.]]~~ Sdělení Ministerstva zahraničních věcí o sjednání Ujednání o školských výměnách mezi Ministerstvem školství, mládeže a tělovýchovy České republiky a Ministerstvem školství Čínské lidové republiky na léta 2016 – 2019 — *zrušeno 2019-12-31*
@@ -5707,16 +5713,16 @@ ke službě v bezpečnostních sborech
 - [[132-2015|132/2015 Sb.]] Vyhláška o sazebníku náhrad nákladů za rozbory prováděné laboratořemi Státní zemědělské a potravinářské inspekce pro účely kontroly
 - [[133-2015|133/2015 Sb.]] Sdělení Ministerstva vnitra o vyhlášení nových voleb do zastupitelstev obcí
 - ~~[[134-2015|134/2015 Sb.]]~~ Nařízení vlády o podrobnostech služebního hodnocení státních zaměstnanců a vazbě výsledku služebního hodnocení na osobní příplatek státního zaměstnance — *zrušeno 2019-03-01*
-- [[135-2015|135/2015 Sb.]] Nařízení vlády o dalších překážkách ve státní službě, za které přísluší státnímu zaměstnanci plat
+- ~~[[135-2015|135/2015 Sb.]]~~ Nařízení vlády o dalších překážkách ve státní službě, za které přísluší státnímu zaměstnanci plat — *zrušeno 2026-11-01*
 - [[136-2015|136/2015 Sb.]] Nařízení vlády o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky
-- [[137-2015|137/2015 Sb.]] Nařízení vlády o dalších případech, ve kterých lze přijmout osobu do služebního poměru na dobu určitou
+- ~~[[137-2015|137/2015 Sb.]]~~ Nařízení vlády o dalších případech, ve kterých lze přijmout osobu do služebního poměru na dobu určitou — *zrušeno 2026-11-01*
 - [[138-2015|138/2015 Sb.]] Vyhláška o vydání zlaté mince po 10 000 Kč k 600. výročí upálení mistra Jana Husa
 - [[139-2015|139/2015 Sb.]] Zákon, kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů, a zákon č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon)
 - [[140-2015|140/2015 Sb.]] Sdělení Českého statistického úřadu o aktualizaci Klasifikace zaměstnání (CZ-ISCO)
 - [[141-2015|141/2015 Sb.]] Sdělení Státní volební komise o vyhlášení a uveřejnění celkových výsledků nových voleb do zastupitelstev obcí konaných dne 13. června 2015
 - [[142-2015|142/2015 Sb.]] Vyhláška o některých podmínkách pro práci členů posádky lodě
 - ~~[[143-2015|143/2015 Sb.]]~~ Nařízení vlády o náležitostech průvodních dokladů pro přepravu vinařských produktů na území České republiky — *zrušeno 2017-04-01*
-- [[144-2015|144/2015 Sb.]] Nařízení vlády o výkonu státní služby z jiného místa a pravidlech pro vytvoření předpokladů sladění rodinného a osobního života s výkonem státní služby
+- ~~[[144-2015|144/2015 Sb.]]~~ Nařízení vlády o výkonu státní služby z jiného místa a pravidlech pro vytvoření předpokladů sladění rodinného a osobního života s výkonem státní služby — *zrušeno 2026-11-01*
 - ~~[[145-2015|145/2015 Sb.]]~~ Nařízení vlády o opatřeních souvisejících s oznamováním podezření ze spáchání protiprávního jednání ve služebním úřadu — *zrušeno 2023-08-01*
 - ~~[[146-2015|146/2015 Sb.]]~~ Vyhláška o stanovení výše náborového příspěvku, výše kvalifikačního příspěvku, výše a postupu při přiznávání cestovních náhrad a náhrad při povolání do služebního poměru a při přeložení poskytovaných vojákům — *zrušeno 2025-07-01*
 - [[147-2015|147/2015 Sb.]] Vyhláška, kterou se mění vyhláška Ministerstva vnitra č. 326/2000 Sb., o způsobu označování ulic a ostatních veřejných prostranství názvy, o způsobu použití a umístění čísel k označení budov, o náležitostech ohlášení o přečíslování budov a o postupu a oznamování přidělení čísel a dokladech potřebných k přidělení čísel, ve znění vyhlášky č. 193/2001 Sb.
@@ -5733,7 +5739,7 @@ ke službě v bezpečnostních sborech
 - ~~[[158-2015|158/2015 Sb.]]~~ Nařízení vlády o stanovení vyměřovacího základu u osoby, za kterou je plátcem pojistného na veřejné zdravotní pojištění stát — *zrušeno 2017-01-01*
 - ~~[[159-2015|159/2015 Sb.]]~~ Nařízení vlády o povolání vojáků v činné službě k plnění úkolů Policie České republiky v období do 31. ledna 2016 — *zrušeno 2016-02-01*
 - [[160-2015|160/2015 Sb.]] Vyhláška, kterou se mění vyhláška č. 16/2012 Sb., o odborné způsobilosti osob řídících drážní vozidlo a osob provádějících revize, prohlídky a zkoušky určených technických zařízení a o změně vyhlášky Ministerstva dopravy č. 101/1995 Sb., kterou se vydává Řád pro zdravotní a odbornou způsobilost osob při provozování dráhy a drážní dopravy, ve znění pozdějších předpisů
-- [[161-2015|161/2015 Sb.]] Nařízení vlády o výkonu státní služby na služebním působišti mimo území České republiky ve svátek
+- ~~[[161-2015|161/2015 Sb.]]~~ Nařízení vlády o výkonu státní služby na služebním působišti mimo území České republiky ve svátek — *zrušeno 2026-11-01*
 - ~~[[162-2015|162/2015 Sb.]]~~ Vyhláška o podrobnostech úřednické zkoušky — *zrušeno 2025-01-01*
 - ~~[[163-2015|163/2015 Sb.]]~~ Zákon, kterým se mění zákon č. 426/2011 Sb., o důchodovém spoření, ve znění pozdějších předpisů — *zrušeno 2024-01-01*
 - [[164-2015|164/2015 Sb.]] Zákon, kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a zákon č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů
@@ -6289,7 +6295,7 @@ ke službě v bezpečnostních sborech
 - ~~[[231-2014|231/2014 Sb.]]~~ Nařízení vlády o stanovení prostředků státního rozpočtu pro poskytnutí dotace na úhradu části ceny elektřiny pro zákazníky a na úhradu provozní podpory tepla pro rok 2015 — *zrušeno 2024-01-01*
 - [[232-2014|232/2014 Sb.]] Sdělení Ministerstva vnitra o vyhlášení dodatečných voleb do zastupitelstev obcí
 - ~~[[233-2014|233/2014 Sb.]]~~ Vyhláška, kterou se mění vyhláška č. 141/2011 Sb., o výkonu činnosti platebních institucí, institucí elektronických peněz, poskytovatelů platebních služeb malého rozsahu a vydavatelů elektronických peněz malého rozsahu, ve znění vyhlášky č. 31/2014 Sb. — *zrušeno 2018-01-13*
-- [[234-2014|234/2014 Sb.]] Zákon o státní službě
+- ~~[[234-2014|234/2014 Sb.]]~~ Zákon o státní službě — *zrušeno 2026-11-01*
 - [[235-2014|235/2014 Sb.]] Usnesení Poslanecké sněmovny k zákonu o státní službě přijatému Parlamentem dne 1. října 2014 a vrácenému prezidentem republiky dne 8. října 2014
 - ~~[[236-2014|236/2014 Sb.]]~~ Nařízení vlády o povolání vojáků v činné službě k plnění úkolů Policie České republiky v období do 31. ledna 2015 — *zrušeno 2014-12-08*
 - [[237-2014|237/2014 Sb.]] Vyhláška, kterou se mění vyhláška č. 194/2007 Sb., kterou se stanoví pravidla pro vytápění a dodávku teplé vody, měrné ukazatele spotřeby tepelné energie pro vytápění a pro přípravu teplé vody a požadavky na vybavení vnitřních tepelných zařízení budov přístroji regulujícími dodávku tepelné energie konečným spotřebitelům

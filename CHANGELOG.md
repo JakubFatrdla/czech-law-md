@@ -3,6 +3,94 @@
 Co se kdy změnilo ve sbírce. Zapisuje `tools/changelog.py` po každé aktualizaci;
 strojový tvar téhož je v `.zmeny/posledni.json`.
 
+## 2026-11-09
+
+6 nových, 72 změněných.
+
+- **[[154-2005|154/2005 Sb.]]** Nařízení vlády o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel — znění k 2023-01-01 (novelizuje: 288/2007 Sb., 162/2008 Sb., 228/2009 Sb., 156/2011 Sb., 175/2012 Sb., 284/2015 Sb.)
+- **[[76-2005|76/2005 Sb.]]** Vyhláška o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění — znění k 2025-01-01 (novelizuje: 56/2010 Sb., 62/2012 Sb., 340/2020 Sb., 406/2024 Sb.)
+- **[[52-2007|52/2007 Sb.]]** Vyhláška o postupech atestačních středisek při posuzování způsobilosti k realizaci vazeb informačních systémů veřejné správy prostřednictvím referenčního rozhraní — znění k 2007-03-22
+- **[[53-2007|53/2007 Sb.]]** Vyhláška o technických a funkčních náležitostech uskutečňování vazeb mezi informačními systémy veřejné správy prostřednictvím referenčního rozhraní (vyhláška o referenčním rozhraní) — znění k 2007-03-22
+- **[[56-2010|56/2010 Sb.]]** Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění — znění k 2010-02-26
+- **[[62-2012|62/2012 Sb.]]** Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění, ve znění vyhlášky č. 56/2010 Sb. — znění k 2012-02-29
+- **[[234-2014|234/2014 Sb.]]** Zákon o státní službě — znění k 2026-01-01 (novelizuje: 199/2015 Sb., 131/2015 Sb., 298/2015 Sb., 302/2016 Sb., 190/2016 Sb., 298/2016 Sb.)
+- **[[122-2015|122/2015 Sb.]]** Vyhláška o způsobu vnějšího označení, služebních stejnokrojích a zvláštním barevném provedení a označení služebních vozidel, plavidel a letadel Policie České republiky a o prokazování příslušnosti k Policii České republiky (o policejním označení) — znění k 2026-11-06 (novelizuje: 362/2019 Sb., 461/2021 Sb., 354/2025 Sb., 214/2026 Sb.)
+- **[[131-2015|131/2015 Sb.]]** Zákon, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. XVIII
+- **[[135-2015|135/2015 Sb.]]** Nařízení vlády o dalších překážkách ve státní službě, za které přísluší státnímu zaměstnanci plat — znění k 2025-01-01 (novelizuje: 310/2024 Sb.)
+- **[[137-2015|137/2015 Sb.]]** Nařízení vlády o dalších případech, ve kterých lze přijmout osobu do služebního poměru na dobu určitou — znění k 2017-03-07 (novelizuje: 44/2017 Sb.)
+- **[[144-2015|144/2015 Sb.]]** Nařízení vlády o výkonu státní služby z jiného místa a pravidlech pro vytvoření předpokladů sladění rodinného a osobního života s výkonem státní služby — znění k 2015-07-01
+- **[[161-2015|161/2015 Sb.]]** Nařízení vlády o výkonu státní služby na služebním působišti mimo území České republiky ve svátek — znění k 2015-07-01
+- **[[298-2015|298/2015 Sb.]]** Zákon, kterým se mění zákon č. 248/2000 Sb., o podpoře regionálního rozvoje, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. VI
+- **[[63-2015|63/2015 Sb.]]** Vyhláška o vzoru průkazu státního zaměstnance pověřeného vykonávat ve služebních úřadech kontrolu ve služebních vztazích státních zaměstnanců — znění k 2015-04-15
+- **[[92-2015|92/2015 Sb.]]** Nařízení vlády o pravidlech pro organizaci služebního úřadu — znění k 2026-07-01 (novelizuje: 463/2023 Sb., 450/2024 Sb., 110/2026 Sb.)
+- **[[137-2016|137/2016 Sb.]]** Zákon, kterým se mění zákon č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách), ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. IX (novelizuje: 168/2018 Sb.)
+- **[[190-2016|190/2016 Sb.]]** Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona č. 131/2015 Sb. — znění k 2026-11-01; dotčeno: Čl. I
+- **[[195-2016|195/2016 Sb.]]** Zákon, kterým se mění zákon č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu, ve znění pozdějších předpisů, a zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů — znění k 2026-11-01; dotčeno: Čl. III
+- **[[26-2016|26/2016 Sb.]]** Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů — znění k 2016-01-25
+- **[[298-2016|298/2016 Sb.]]** Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona o službách vytvářejících důvěru pro elektronické transakce, zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, a zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů — znění k 2026-11-01; dotčeno: Čl. LXVIII
+- **[[302-2016|302/2016 Sb.]]** Zákon, kterým se mění zákon č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. VII
+- **[[319-2016|319/2016 Sb.]]** Zákon, kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. XII
+- **[[47-2016|47/2016 Sb.]]** Zákon, kterým se mění zákon č. 585/2004 Sb., o branné povinnosti a jejím zajišťování (branný zákon), ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. XVII
+- **[[144-2017|144/2017 Sb.]]** Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů — znění k 2017-06-01
+- **[[150-2017|150/2017 Sb.]]** Zákon o zahraniční službě a o změně některých zákonů (zákon o zahraniční službě) — znění k 2026-11-01; dotčeno: § 40, § 47a, § 61 (novelizuje: 35/2019 Sb., 384/2022 Sb., 123/2024 Sb., 453/2024 Sb.)
+- **[[205-2017|205/2017 Sb.]]** Zákon, kterým se mění zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), ve znění zákona č. 104/2017 Sb., a některé další zákony — znění k 2026-11-01; dotčeno: Čl. VI
+- **[[24-2017|24/2017 Sb.]]** Zákon, kterým se mění některé zákony v souvislosti s přijetím právní úpravy rozpočtové odpovědnosti — znění k 2026-11-01; dotčeno: Čl. XX
+- **[[44-2017|44/2017 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 137/2015 Sb., o dalších případech, ve kterých lze přijmout osobu do služebního poměru na dobu určitou — znění k 2017-03-07
+- **[[66-2017|66/2017 Sb.]]** Zákon, kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. VI (novelizuje: 290/2017 Sb., 262/2019 Sb.)
+- **[[335-2018|335/2018 Sb.]]** Zákon, kterým se mění zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. IV, Čl. V
+- **[[111-2019|111/2019 Sb.]]** Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona o zpracování osobních údajů — znění k 2026-11-01; dotčeno: Čl. XXXIV
+- **[[178-2019|178/2019 Sb.]]** Zákon, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. IV
+- **[[32-2019|32/2019 Sb.]]** Zákon, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. XIX, Čl. XX
+- **[[35-2019|35/2019 Sb.]]** Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů, a zákon č. 150/2017 Sb., o zahraniční službě a o změně některých zákonů (zákon o zahraniční službě) — znění k 2026-11-01; dotčeno: Čl. I, Čl. II
+- **[[81-2019|81/2019 Sb.]]** Vyhláška o vzorech služebního průkazu v orgánu finanční správy — znění k 2019-04-01
+- **[[205-2020|205/2020 Sb.]]** Zákon, kterým se mění zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. V
+- **[[285-2020|285/2020 Sb.]]** Zákon, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další související zákony — znění k 2026-11-01; dotčeno: Čl. IX
+- **[[340-2020|340/2020 Sb.]]** Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění, ve znění pozdějších předpisů — znění k 2021-01-01
+- **[[393-2020|393/2020 Sb.]]** Vyhláška o digitální technické mapě kraje — znění k 2025-01-01 (novelizuje: 186/2023 Sb., 140/2024 Sb., 193/2026 Sb.)
+- **[[484-2020|484/2020 Sb.]]** Zákon, kterým se mění zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. VIII
+- **[[218-2021|218/2021 Sb.]]** Zákon, kterým se mění zákon č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. X
+- **[[251-2021|251/2021 Sb.]]** Zákon, kterým se mění zákon č. 248/2000 Sb., o podpoře regionálního rozvoje, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. XIV (novelizuje: 151/2023 Sb.)
+- **[[261-2021|261/2021 Sb.]]** Zákon, kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci — znění k 2026-11-01; dotčeno: Čl. CLXVII (novelizuje: 89/2022 Sb., 271/2023 Sb., 197/2024 Sb.)
+- **[[412-2021|412/2021 Sb.]]** Vyhláška o rozpočtové skladbě — znění k 2026-01-01; dotčeno: § 34 (novelizuje: 402/2022 Sb., 348/2023 Sb., 385/2024 Sb., 105/2025 Sb., 336/2025 Sb.)
+- **[[358-2022|358/2022 Sb.]]** Zákon, kterým se mění zákon č. 329/2011 Sb., o poskytování dávek osobám se zdravotním postižením a o změně souvisejících zákonů, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. IX (novelizuje: 461/2024 Sb.)
+- **[[384-2022|384/2022 Sb.]]** Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. I, § 28b, § 28c, Čl. II
+- **[[423-2022|423/2022 Sb.]]** Zákon, kterým se mění zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. III
+- **[[471-2022|471/2022 Sb.]]** Zákon, kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. XV
+- **[[67-2022|67/2022 Sb.]]** Zákon o opatřeních v oblasti školství v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace — znění k 2025-12-18 (novelizuje: 199/2022 Sb., 175/2022 Sb., 20/2023 Sb., 454/2023 Sb., 24/2025 Sb., 52/2025 Sb.)
+- **[[152-2023|152/2023 Sb.]]** Zákon, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění zákona č. 195/2022 Sb., a některé další související zákony — znění k 2026-11-01; dotčeno: Čl. XXXIV
+- **[[172-2023|172/2023 Sb.]]** Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona o ochraně oznamovatelů — znění k 2026-11-01; dotčeno: Čl. XII, Čl. XIII
+- **[[281-2023|281/2023 Sb.]]** Zákon, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. XIII, Čl. XIV (novelizuje: 413/2023 Sb.)
+- **[[412-2023|412/2023 Sb.]]** Zákon, kterým se mění zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. XXI
+- **[[427-2023|427/2023 Sb.]]** Zákon, kterým se mění zákon č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. X
+- **[[463-2023|463/2023 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu — znění k 2024-07-01
+- **[[464-2023|464/2023 Sb.]]** Zákon, kterým se mění a ruší některé zákony v souvislosti se zrušením Úřadu pro přístup k dopravní infrastruktuře — znění k 2026-11-01; dotčeno: Čl. IX
+- **[[49-2023|49/2023 Sb.]]** Zákon, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. III
+- **[[196-2024|196/2024 Sb.]]** Zákon, kterým se mění zákon č. 312/2002 Sb., o úřednících územních samosprávných celků a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. VIII, Čl. IX
+- **[[230-2024|230/2024 Sb.]]** Zákon, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. XIV
+- **[[310-2024|310/2024 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 135/2015 Sb., o dalších překážkách ve státní službě, za které přísluší státnímu zaměstnanci plat — znění k 2025-01-01
+- **[[406-2024|406/2024 Sb.]]** Vyhláška, kterou se mění vyhláška č. 76/2005 Sb., o stanovení způsobu výpočtu rozdílu mezi příjmy pojistného na důchodové pojištění a výdaji na dávky důchodového pojištění, ve znění pozdějších předpisů — znění k 2025-01-01
+- **[[448-2024|448/2024 Sb.]]** Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. I, § 36, § 37, § 38, § 39, § 40, § 41, § 42, § 42b, § 42c, § 73, § 89 a dalších 16
+- **[[450-2024|450/2024 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu, ve znění nařízení vlády č. 463/2023 Sb. — znění k 2025-01-01
+- **[[120-2025|120/2025 Sb.]]** Zákon, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony — znění k 2026-11-01; dotčeno: Čl. XIII
+- **[[329-2025|329/2025 Sb.]]** Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona o výzkumu, vývoji, inovacích a transferu znalostí — znění k 2026-11-01; dotčeno: Čl. VIII
+- **[[77-2025|77/2025 Sb.]]** Zákon, kterým se mění zákon č. 349/1999 Sb., o Veřejném ochránci práv, ve znění pozdějších předpisů, a další související zákony — znění k 2026-11-01; dotčeno: Čl. XXVII
+- **[[110-2026|110/2026 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády  č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu, ve znění pozdějších předpisů — znění k 2026-07-01
+- **[[193-2026|193/2026 Sb.]]** Vyhláška, kterou se mění vyhláška č. 393/2020 Sb., o digitální technické mapě kraje, ve znění pozdějších předpisů — znění k 2026-10-20; dotčeno: Čl. I, Čl. II
+- **[[195-2026|195/2026 Sb.]]** Zákon o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích) — znění k 2026-11-01; dotčeno: § 1, § 2, § 3, § 4, § 5, § 6, § 7, § 8, § 9, § 10, § 11, § 12 a dalších 85
+- **[[203-2026|203/2026 Sb.]]** Nařízení vlády, kterým se vydává cenový výměr regulující ceny některých pohonných hmot pro období od 1. listopadu 2026 do 30. listopadu 2026 — znění k 2026-11-01
+- **[[3-2026|3/2026 Sb.]]** Nález Ústavního soudu sp. zn. Pl. ÚS 30/25 ve věci návrhu na zrušení § 2 odst. 5 a 6 zákona č. 67/2022 Sb., o opatřeních v oblasti školství v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění zákona č. 24/2025 Sb. — znění k 0000-00-00
+
+<details><summary>Nově přidáno (6)</summary>
+
+- [[209-2026|209/2026 Sb.]] Vyhláška o Programu statistických zjišťování na rok 2027
+- [[210-2026|210/2026 Sb.]] Sdělení Ministerstva vnitra o vyhlášení dodatečných voleb do zastupitelstev obcí
+- [[211-2026|211/2026 Sb.]] Nařízení vlády, kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů
+- [[212-2026|212/2026 Sb.]] Nařízení vlády o mimořádném pracovním vízu pro státní příslušníky některých států pracující v zemědělství, potravinářství nebo lesnictví
+- [[213-2026|213/2026 Sb.]] Sdělení Ministerstva zahraničních věcí o sjednání Rámcové smlouvy mezi Českou republikou a Slovenskou republikou o přeshraniční spolupráci v oblasti zdravotnické záchranné služby
+- [[214-2026|214/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 122/2015 Sb., o způsobu vnějšího označení, služebních stejnokrojích a zvláštním barevném provedení a označení služebních vozidel, plavidel a letadel Policie České republiky a o prokazování příslušnosti k Policii České republiky (o policejním označení), ve znění pozdějších předpisů
+
+</details>
+
 ## 2026-11-02
 
 10 nových, 15 změněných.
