@@ -4358,12 +4358,12 @@
   "zmena": "2024-05-22T10:03:36.071"
  },
  "104/2000 Sb.": {
-  "dokument_id": "1353393",
+  "dokument_id": "2081137",
   "nazev": "Zákon o Státním fondu dopravní infrastruktury a o změně zákona č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů",
   "pristi_zneni_od": "2029-01-01",
   "soubor": "zakony/2000/104-2000.md",
-  "ucinnost_od": "2025-07-01",
-  "zmena": "2025-05-21T13:10:10.266"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:31:59.869"
  },
  "104/2000 Sb. m. s.": {
   "dokument_id": "219745",
@@ -8910,11 +8910,12 @@
   "zmena": "2024-05-23T07:25:05.677"
  },
  "110/2019 Sb.": {
-  "dokument_id": "1881735",
+  "dokument_id": "2081353",
   "nazev": "Zákon o zpracování osobních údajů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2019/110-2019.md",
-  "ucinnost_od": "2025-08-01",
-  "zmena": "2025-08-04T15:51:36.305"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:46:58.596"
  },
  "110/2020 Sb.": {
   "dokument_id": "55859",
@@ -9247,11 +9248,12 @@
   "zmena": "2024-05-22T20:00:28.584"
  },
  "111/1994 Sb.": {
-  "dokument_id": "1880175",
+  "dokument_id": "2081063",
   "nazev": "Zákon o silniční dopravě",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1994/111-1994.md",
-  "ucinnost_od": "2026-07-01",
-  "zmena": "2025-07-24T12:57:16.946"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:27:38.405"
  },
  "111/1995 Sb.": {
   "dokument_id": "96873",
@@ -10965,12 +10967,12 @@
   "zmena": "2024-05-22T17:20:28.389"
  },
  "114/1992 Sb.": {
-  "dokument_id": "1883359",
+  "dokument_id": "2081023",
   "nazev": "Zákon České národní rady o ochraně přírody a krajiny",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/1992/114-1992.md",
-  "ucinnost_od": "2025-10-01",
-  "zmena": "2025-09-02T08:14:04.791"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:26:31.606"
  },
  "114/1993 Sb.": {
   "dokument_id": "1086201",
@@ -10987,11 +10989,12 @@
   "zmena": "2024-05-22T20:15:04.063"
  },
  "114/1995 Sb.": {
-  "dokument_id": "2056315",
+  "dokument_id": "2081089",
   "nazev": "Zákon o vnitrozemské plavbě",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1995/114-1995.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-09-30T09:02:30.490"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:28:31.327"
  },
  "114/1996 Sb.": {
   "dokument_id": "32729",
@@ -11610,11 +11613,12 @@
   "zmena": "2024-05-28T15:34:39.484"
  },
  "115/2001 Sb.": {
-  "dokument_id": "1331229",
+  "dokument_id": "2081211",
   "nazev": "Zákon o podpoře sportu",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2001/115-2001.md",
-  "ucinnost_od": "2025-05-01",
-  "zmena": "2025-05-19T13:21:21.788"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:37:24.833"
  },
  "115/2001 Sb. m. s.": {
   "dokument_id": "220055",
@@ -14818,11 +14822,12 @@
   "zmena": "2024-05-28T15:37:26.262"
  },
  "12/2020 Sb.": {
-  "dokument_id": "1882767",
+  "dokument_id": "2081357",
   "nazev": "Zákon o právu na digitální služby a o změně některých zákonů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2020/12-2020.md",
-  "ucinnost_od": "2025-11-01",
-  "zmena": "2025-08-18T10:00:19.409"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:47:10.570"
  },
  "12/2020 Sb. m. s.": {
   "dokument_id": "223717",
@@ -19074,11 +19079,12 @@
   "zmena": "2024-05-28T15:35:25.049"
  },
  "127/2005 Sb.": {
-  "dokument_id": "1882857",
+  "dokument_id": "2081271",
   "nazev": "Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích)",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2005/127-2005.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-08-18T21:21:33.005"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:41:00.382"
  },
  "127/2005 Sb. m. s.": {
   "dokument_id": "221209",
@@ -20069,12 +20075,12 @@
   "zmena": "2024-05-22T22:01:04.242"
  },
  "129/2000 Sb.": {
-  "dokument_id": "1882029",
+  "dokument_id": "2081143",
   "nazev": "Zákon o krajích (krajské zřízení)",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2000/129-2000.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-08-05T07:46:38.303"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:32:10.297"
  },
  "129/2000 Sb. m. s.": {
   "dokument_id": "219795",
@@ -20688,12 +20694,12 @@
   "zmena": "2024-05-22T10:02:41.918"
  },
  "13/1997 Sb.": {
-  "dokument_id": "2057649",
+  "dokument_id": "2081105",
   "nazev": "Zákon o pozemních komunikacích",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/1997/13-1997.md",
-  "ucinnost_od": "2026-07-01",
-  "zmena": "2025-10-20T17:00:22.044"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:29:17.720"
  },
  "13/1998 Sb.": {
   "dokument_id": "101033",
@@ -21397,12 +21403,12 @@
   "zmena": "2024-05-28T15:34:51.109"
  },
  "130/2002 Sb.": {
-  "dokument_id": "2056105",
+  "dokument_id": "2081229",
   "nazev": "Zákon o podpoře výzkumu a vývoje z veřejných prostředků a o změně některých souvisejících zákonů (zákon o podpoře výzkumu a vývoje)",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2002/130-2002.md",
-  "ucinnost_od": "2024-01-01",
-  "zmena": "2025-09-29T20:45:42.281"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:38:31.502"
  },
  "130/2002 Sb. m. s.": {
   "dokument_id": "220373",
@@ -21869,12 +21875,12 @@
   "zmena": "2024-05-22T22:01:06.492"
  },
  "131/2000 Sb.": {
-  "dokument_id": "1882035",
+  "dokument_id": "2081149",
   "nazev": "Zákon o hlavním městě Praze",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2000/131-2000.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-08-05T07:46:46.696"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:32:21.980"
  },
  "131/2000 Sb. m. s.": {
   "dokument_id": "219799",
@@ -26557,11 +26563,12 @@
   "zmena": "2024-05-22T19:44:17.455"
  },
  "14/1993 Sb.": {
-  "dokument_id": "93527",
+  "dokument_id": "2081043",
   "nazev": "Zákon České národní rady o opatřeních na ochranu průmyslového vlastnictví",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1993/14-1993.md",
-  "ucinnost_od": "2015-01-01",
-  "zmena": "2024-05-22T19:55:05.374"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:27:16.666"
  },
  "14/1994 Sb.": {
   "dokument_id": "30989",
@@ -27525,12 +27532,12 @@
   "zmena": "2024-05-22T12:19:37.714"
  },
  "141/1961 Sb.": {
-  "dokument_id": "2055613",
+  "dokument_id": "2080975",
   "nazev": "Zákon o trestním řízení soudním (trestní řád)",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/1961/141-1961.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-09-25T17:52:19.757"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:22:55.367"
  },
  "141/1964 Sb.": {
   "dokument_id": "70161",
@@ -30085,11 +30092,12 @@
   "zmena": "2025-12-30T15:35:54.860"
  },
  "146/2002 Sb.": {
-  "dokument_id": "1882693",
+  "dokument_id": "2081233",
   "nazev": "Zákon o Státní zemědělské a potravinářské inspekci a o změně některých souvisejících zákonů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2002/146-2002.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-08-18T07:58:37.323"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:38:31.590"
  },
  "146/2003 Sb.": {
   "dokument_id": "115519",
@@ -30555,11 +30563,12 @@
   "zmena": "2024-05-22T23:36:33.322"
  },
  "147/2002 Sb.": {
-  "dokument_id": "1882697",
+  "dokument_id": "2081237",
   "nazev": "Zákon o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých souvisejících zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském)",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2002/147-2002.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-08-18T07:58:40.952"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:38:43.509"
  },
  "147/2003 Sb.": {
   "dokument_id": "115523",
@@ -32672,11 +32681,12 @@
   "zmena": "2024-05-22T23:36:37.775"
  },
  "150/2002 Sb.": {
-  "dokument_id": "2057067",
+  "dokument_id": "2081241",
   "nazev": "Zákon soudní řád správní",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2002/150-2002.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-10-09T08:36:25.388"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:38:51.914"
  },
  "150/2003 Sb.": {
   "dokument_id": "115573",
@@ -32777,12 +32787,12 @@
   "zmena": "2024-05-23T06:58:10.641"
  },
  "150/2017 Sb.": {
-  "dokument_id": "2079447",
+  "dokument_id": "2081351",
   "nazev": "Zákon o zahraniční službě a o změně některých zákonů (zákon o zahraniční službě)",
   "pristi_zneni_od": "",
   "soubor": "zakony/2017/150-2017.md",
   "ucinnost_od": "2026-11-01",
-  "zmena": "2026-11-05T16:20:26.098"
+  "zmena": "2026-11-09T08:46:53.919"
  },
  "150/2018 Sb.": {
   "dokument_id": "54507",
@@ -33966,11 +33976,12 @@
   "zmena": "2024-05-22T10:02:06.733"
  },
  "153/1994 Sb.": {
-  "dokument_id": "1647119",
+  "dokument_id": "2081067",
   "nazev": "Zákon o zpravodajských službách České republiky",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1994/153-1994.md",
-  "ucinnost_od": "2025-07-01",
-  "zmena": "2025-07-02T11:10:18.495"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:27:48.634"
  },
  "153/1995 Sb.": {
   "dokument_id": "97235",
@@ -34443,11 +34454,12 @@
   "zmena": "2024-05-22T10:03:38.180"
  },
  "154/2000 Sb.": {
-  "dokument_id": "1086327",
+  "dokument_id": "2081155",
   "nazev": "Zákon o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon)",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2000/154-2000.md",
-  "ucinnost_od": "2025-04-01",
-  "zmena": "2025-04-09T22:29:09.048"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:32:36.035"
  },
  "154/2001 Sb.": {
   "dokument_id": "109533",
@@ -34852,12 +34864,12 @@
   "zmena": "2024-05-22T20:16:26.952"
  },
  "155/1995 Sb.": {
-  "dokument_id": "2059737",
+  "dokument_id": "2081093",
   "nazev": "Zákon o důchodovém pojištění",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/1995/155-1995.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-11-03T13:54:00.716"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:28:40.685"
  },
  "155/1996 Sb.": {
   "dokument_id": "98697",
@@ -35323,11 +35335,12 @@
   "zmena": "2024-05-22T10:03:38.180"
  },
  "156/2000 Sb.": {
-  "dokument_id": "1881143",
+  "dokument_id": "2081159",
   "nazev": "Zákon o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2000/156-2000.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-07-25T08:12:18.832"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:32:48.804"
  },
  "156/2001 Sb.": {
   "dokument_id": "109541",
@@ -36606,12 +36619,12 @@
   "zmena": "2024-05-23T02:55:29.781"
  },
  "159/2006 Sb.": {
-  "dokument_id": "2077921",
+  "dokument_id": "2081279",
   "nazev": "Zákon o střetu zájmů",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2006/159-2006.md",
-  "ucinnost_od": "2026-08-29",
-  "zmena": "2026-09-18T09:42:53.734"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:41:52.594"
  },
  "159/2007 Sb.": {
   "dokument_id": "128405",
@@ -40135,12 +40148,12 @@
   "zmena": "2024-05-22T19:42:12.399"
  },
  "166/1993 Sb.": {
-  "dokument_id": "2077897",
+  "dokument_id": "2081059",
   "nazev": "Zákon o Nejvyšším kontrolním úřadu",
   "pristi_zneni_od": "",
   "soubor": "zakony/1993/166-1993.md",
-  "ucinnost_od": "2026-08-29",
-  "zmena": "2026-09-18T09:42:12.947"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:27:33.156"
  },
  "166/1994 Sb.": {
   "dokument_id": "31389",
@@ -40178,11 +40191,12 @@
   "zmena": "2024-05-22T21:48:08.549"
  },
  "166/1999 Sb.": {
-  "dokument_id": "2056325",
+  "dokument_id": "2081125",
   "nazev": "Zákon o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon)",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1999/166-1999.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-09-30T09:02:40.811"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:31:05.882"
  },
  "166/2000 Sb.": {
   "dokument_id": "105955",
@@ -41139,11 +41153,12 @@
   "zmena": "2024-07-11T10:30:41.034"
  },
  "168/2025 Sb.": {
-  "dokument_id": "1621301",
+  "dokument_id": "2081365",
   "nazev": "Zákon o regulaci lobbování",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2025/168-2025.md",
-  "ucinnost_od": "2025-07-01",
-  "zmena": "2025-06-30T09:03:39.106"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:47:35.567"
  },
  "168/2026 Sb.": {
   "dokument_id": "8422",
@@ -47510,11 +47525,12 @@
   "zmena": "2024-05-23T03:28:04.691"
  },
  "181/2007 Sb.": {
-  "dokument_id": "128479",
+  "dokument_id": "2081295",
   "nazev": "Zákon o Ústavu pro studium totalitních režimů a o Archivu bezpečnostních složek a o změně některých zákonů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2007/181-2007.md",
-  "ucinnost_od": "2015-01-01",
-  "zmena": "2024-05-23T04:12:42.485"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:43:17.499"
  },
  "181/2008 Sb.": {
   "dokument_id": "130091",
@@ -49633,11 +49649,12 @@
   "zmena": "2024-05-23T02:56:14.182"
  },
  "187/2006 Sb.": {
-  "dokument_id": "2059815",
+  "dokument_id": "2081285",
   "nazev": "Zákon o nemocenském pojištění",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2006/187-2006.md",
-  "ucinnost_od": "2026-07-01",
-  "zmena": "2025-11-03T13:58:32.719"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:42:07.909"
  },
  "187/2007 Sb.": {
   "dokument_id": "128487",
@@ -50819,11 +50836,12 @@
   "zmena": "2024-05-22T18:11:22.923"
  },
  "19/1993 Sb.": {
-  "dokument_id": "393549",
+  "dokument_id": "2081047",
   "nazev": "Zákon České národní rady o orgánech státní správy České republiky v oblasti puncovnictví a zkoušení drahých kovů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1993/19-1993.md",
-  "ucinnost_od": "2024-12-13",
-  "zmena": "2025-01-03T08:12:05.238"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:27:20.958"
  },
  "19/1994 Sb.": {
   "dokument_id": "95071",
@@ -53960,12 +53978,12 @@
   "zmena": "2025-07-08T09:01:05.376"
  },
  "197/2026 Sb.": {
-  "dokument_id": "2078965",
+  "dokument_id": "2081387",
   "nazev": "Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích)",
-  "pristi_zneni_od": "",
+  "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2026/197-2026.md",
-  "ucinnost_od": "0000-00-00",
-  "zmena": "2026-10-22T13:54:50.972"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:48:36.949"
  },
  "198/1946 Sb.": {
   "dokument_id": "60949",
@@ -54804,12 +54822,12 @@
   "zmena": "2024-05-22T09:58:11.760"
  },
  "2/1969 Sb.": {
-  "dokument_id": "2056277",
+  "dokument_id": "2080987",
   "nazev": "Zákon České národní rady  o zřízení ministerstev a jiných ústředních orgánů státní správy České socialistické republiky",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/1969/2-1969.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-09-30T07:23:15.636"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:24:54.112"
  },
  "2/1970 Sb.": {
   "dokument_id": "74465",
@@ -55764,11 +55782,12 @@
   "zmena": "2024-05-22T18:11:24.705"
  },
  "20/1993 Sb.": {
-  "dokument_id": "93625",
+  "dokument_id": "2081051",
   "nazev": "Zákon České národní rady o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1993/20-1993.md",
-  "ucinnost_od": "2015-01-01",
-  "zmena": "2024-05-22T19:55:45.727"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:27:25.234"
  },
  "20/1994 Sb.": {
   "dokument_id": "31001",
@@ -56275,11 +56294,12 @@
   "zmena": "2024-05-22T10:02:08.733"
  },
  "200/1994 Sb.": {
-  "dokument_id": "2057637",
+  "dokument_id": "2081071",
   "nazev": "Zákon o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1994/200-1994.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-10-20T17:00:07.006"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:27:54.039"
  },
  "200/1995 Sb.": {
   "dokument_id": "32153",
@@ -56668,11 +56688,12 @@
   "zmena": "2024-05-22T23:41:48.133"
  },
  "201/2002 Sb.": {
-  "dokument_id": "1085857",
+  "dokument_id": "2081245",
   "nazev": "Zákon o Úřadu pro zastupování státu ve věcech majetkových",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2002/201-2002.md",
-  "ucinnost_od": "2025-03-01",
-  "zmena": "2025-03-14T23:00:14.356"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:39:05.155"
  },
  "201/2003 Sb.": {
   "dokument_id": "115741",
@@ -62470,6 +62491,14 @@
   "ucinnost_od": "2025-08-01",
   "zmena": "2025-07-10T10:38:11.269"
  },
+ "216/2026 Sb.": {
+  "dokument_id": "2081395",
+  "nazev": "Nařízení vlády, kterým se mění některá nařízení vlády související s opatřeními přijatými v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace",
+  "pristi_zneni_od": "",
+  "soubor": "zakony/2026/216-2026.md",
+  "ucinnost_od": "0000-00-00",
+  "zmena": "2026-11-09T13:23:23.661"
+ },
  "217/1946 Sb.": {
   "dokument_id": "61103",
   "nazev": "Nařízení, jímž se stanoví konec doby zvýšeného ohrožení republiky",
@@ -62870,12 +62899,12 @@
   "zmena": "2024-05-22T22:06:00.509"
  },
  "218/2000 Sb.": {
-  "dokument_id": "2077901",
+  "dokument_id": "2081163",
   "nazev": "Zákon o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla)",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2000/218-2000.md",
-  "ucinnost_od": "2026-08-29",
-  "zmena": "2026-09-18T09:42:19.080"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:33:03.948"
  },
  "218/2001 Sb.": {
   "dokument_id": "109989",
@@ -66084,12 +66113,12 @@
   "zmena": "2024-05-23T05:55:23.379"
  },
  "226/2013 Sb.": {
-  "dokument_id": "1882705",
+  "dokument_id": "2081333",
   "nazev": "Zákon o uvádění dřeva a dřevařských výrobků na trh",
   "pristi_zneni_od": "2028-06-30",
   "soubor": "zakony/2013/226-2013.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-08-18T07:58:48.097"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:45:48.165"
  },
  "226/2014 Sb.": {
   "dokument_id": "142351",
@@ -68267,11 +68296,12 @@
   "zmena": "2024-05-22T10:03:58.413"
  },
  "231/2001 Sb.": {
-  "dokument_id": "2073225",
+  "dokument_id": "2081215",
   "nazev": "Zákon o provozování rozhlasového a televizního vysílání a o změně dalších zákonů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2001/231-2001.md",
-  "ucinnost_od": "2025-07-01",
-  "zmena": "2026-07-01T16:50:27.123"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:37:34.052"
  },
  "231/2002 Sb.": {
   "dokument_id": "113307",
@@ -73958,12 +73988,12 @@
   "zmena": "2024-05-22T22:08:28.651"
  },
  "248/2000 Sb.": {
-  "dokument_id": "1882063",
+  "dokument_id": "2081169",
   "nazev": "Zákon o podpoře regionálního rozvoje",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2000/248-2000.md",
-  "ucinnost_od": "2025-02-19",
-  "zmena": "2025-08-05T07:47:33.263"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:33:31.034"
  },
  "248/2001 Sb.": {
   "dokument_id": "110185",
@@ -75613,11 +75643,12 @@
   "zmena": "2024-05-22T10:05:43.323"
  },
  "251/2005 Sb.": {
-  "dokument_id": "2059781",
+  "dokument_id": "2081275",
   "nazev": "Zákon o inspekci práce",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2005/251-2005.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-11-03T13:55:46.170"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:41:37.282"
  },
  "251/2006 Sb.": {
   "dokument_id": "2057327",
@@ -76190,11 +76221,12 @@
   "zmena": "2024-05-23T04:14:27.570"
  },
  "253/2008 Sb.": {
-  "dokument_id": "1883491",
+  "dokument_id": "2081303",
   "nazev": "Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2008/253-2008.md",
-  "ucinnost_od": "2026-01-11",
-  "zmena": "2025-09-02T15:19:48.301"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:44:04.260"
  },
  "253/2009 Sb.": {
   "dokument_id": "46451",
@@ -76974,12 +77006,12 @@
   "zmena": "2024-05-22T22:08:41.125"
  },
  "256/2000 Sb.": {
-  "dokument_id": "2056333",
+  "dokument_id": "2081175",
   "nazev": "Zákon o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu)",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2000/256-2000.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-09-30T09:02:52.110"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:33:40.440"
  },
  "256/2001 Sb.": {
   "dokument_id": "1880369",
@@ -77517,12 +77549,12 @@
   "zmena": "2024-05-22T22:08:45.046"
  },
  "258/2000 Sb.": {
-  "dokument_id": "2057059",
+  "dokument_id": "2081181",
   "nazev": "Zákon o ochraně veřejného zdraví a o změně některých souvisejících zákonů",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2000/258-2000.md",
-  "ucinnost_od": "2026-06-12",
-  "zmena": "2025-10-09T08:36:08.050"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:33:52.372"
  },
  "258/2001 Sb.": {
   "dokument_id": "110337",
@@ -79389,12 +79421,12 @@
   "zmena": "2026-06-26T13:00:29.745"
  },
  "262/2006 Sb.": {
-  "dokument_id": "2077927",
+  "dokument_id": "2081289",
   "nazev": "Zákon zákoník práce",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2006/262-2006.md",
-  "ucinnost_od": "2026-08-29",
-  "zmena": "2026-09-18T09:43:02.852"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:42:36.995"
  },
  "262/2007 Sb.": {
   "dokument_id": "128771",
@@ -79425,11 +79457,12 @@
   "zmena": "2024-05-22T10:08:24.186"
  },
  "262/2011 Sb.": {
-  "dokument_id": "391609",
+  "dokument_id": "2081313",
   "nazev": "Zákon o účastnících odboje a odporu proti komunismu",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2011/262-2011.md",
-  "ucinnost_od": "2024-11-01",
-  "zmena": "2024-10-17T10:03:11.833"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:44:41.291"
  },
  "262/2012 Sb.": {
   "dokument_id": "390461",
@@ -79726,11 +79759,12 @@
   "zmena": "2024-05-23T06:47:17.918"
  },
  "263/2016 Sb.": {
-  "dokument_id": "1086655",
+  "dokument_id": "2081347",
   "nazev": "Zákon atomový zákon",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2016/263-2016.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-04-16T08:17:09.813"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:46:37.021"
  },
  "263/2017 Sb.": {
   "dokument_id": "147869",
@@ -80379,12 +80413,12 @@
   "zmena": "2024-05-22T20:04:10.462"
  },
  "266/1994 Sb.": {
-  "dokument_id": "2057639",
+  "dokument_id": "2081075",
   "nazev": "Zákon o dráhách",
   "pristi_zneni_od": "2028-07-01",
   "soubor": "zakony/1994/266-1994.md",
-  "ucinnost_od": "2025-09-10",
-  "zmena": "2025-10-20T17:00:08.038"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:28:02.289"
  },
  "266/1995 Sb.": {
   "dokument_id": "97955",
@@ -81390,11 +81424,12 @@
   "zmena": "2024-05-23T07:42:30.074"
  },
  "269/2021 Sb.": {
-  "dokument_id": "1882233",
+  "dokument_id": "2081361",
   "nazev": "Zákon o občanských průkazech",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2021/269-2021.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-08-05T13:39:36.981"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:47:24.777"
  },
  "269/2022 Sb.": {
   "dokument_id": "155443",
@@ -83065,11 +83100,12 @@
   "zmena": "2024-05-22T20:44:03.322"
  },
  "273/1996 Sb.": {
-  "dokument_id": "98967",
+  "dokument_id": "2081101",
   "nazev": "Zákon o působnosti Úřadu pro ochranu hospodářské soutěže",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1996/273-1996.md",
-  "ucinnost_od": "2024-01-01",
-  "zmena": "2024-05-22T20:56:36.092"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:29:13.065"
  },
  "273/1997 Sb.": {
   "dokument_id": "33899",
@@ -86184,11 +86220,12 @@
   "zmena": "2024-05-22T17:05:41.641"
  },
  "282/1991 Sb.": {
-  "dokument_id": "86621",
+  "dokument_id": "2081001",
   "nazev": "Zákon České národní rady o České inspekci životního prostředí a její působnosti v ochraně lesa",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1991/282-1991.md",
-  "ucinnost_od": "2022-02-01",
-  "zmena": "2024-05-22T17:22:34.906"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:25:20.036"
  },
  "282/1992 Sb.": {
   "dokument_id": "90457",
@@ -89703,12 +89740,12 @@
   "zmena": "2024-05-22T10:09:12.812"
  },
  "292/2013 Sb.": {
-  "dokument_id": "2056835",
+  "dokument_id": "2081339",
   "nazev": "Zákon o zvláštních řízeních soudních",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2013/292-2013.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-10-07T17:48:07.072"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:46:01.284"
  },
  "292/2014 Sb.": {
   "dokument_id": "142661",
@@ -95435,11 +95472,12 @@
   "zmena": "2024-05-22T22:10:55.977"
  },
  "309/2000 Sb.": {
-  "dokument_id": "107423",
+  "dokument_id": "2081187",
   "nazev": "Zákon o obranné standardizaci, katalogizaci a státním ověřování jakosti výrobků a služeb určených k zajištění obrany státu a o změně živnostenského zákona",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2000/309-2000.md",
-  "ucinnost_od": "2015-01-01",
-  "zmena": "2024-05-22T23:01:22.549"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:34:31.911"
  },
  "309/2001 Sb.": {
   "dokument_id": "110575",
@@ -96952,11 +96990,12 @@
   "zmena": "2025-07-24T13:08:07.079"
  },
  "312/2002 Sb.": {
-  "dokument_id": "1883727",
+  "dokument_id": "2081249",
   "nazev": "Zákon o úřednících územních samosprávných celků a o změně některých zákonů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2002/312-2002.md",
-  "ucinnost_od": "2025-06-01",
-  "zmena": "2025-09-08T13:45:23.718"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:39:13.970"
  },
  "312/2003 Sb.": {
   "dokument_id": "116339",
@@ -100668,12 +100707,12 @@
   "zmena": "2024-11-30T23:40:46.467"
  },
  "323/2025 Sb.": {
-  "dokument_id": "2055103",
+  "dokument_id": "2081371",
   "nazev": "Zákon o jednotném měsíčním hlášení zaměstnavatele",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2025/323-2025.md",
-  "ucinnost_od": "2026-07-01",
-  "zmena": "2025-09-17T08:20:40.775"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:47:48.987"
  },
  "324/1948 Sb.": {
   "dokument_id": "62353",
@@ -101258,11 +101297,12 @@
   "zmena": "2024-05-23T00:59:49.586"
  },
  "326/2004 Sb.": {
-  "dokument_id": "1086351",
+  "dokument_id": "2081253",
   "nazev": "Zákon o rostlinolékařské péči a o změně některých souvisejících zákonů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2004/326-2004.md",
-  "ucinnost_od": "2025-04-01",
-  "zmena": "2025-04-09T22:29:41.049"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:39:22.724"
  },
  "326/2005 Sb.": {
   "dokument_id": "123245",
@@ -101881,12 +101921,12 @@
   "zmena": "2024-12-04T21:27:02.665"
  },
  "328/2025 Sb.": {
-  "dokument_id": "2056203",
+  "dokument_id": "2081377",
   "nazev": "Zákon o výzkumu, vývoji, inovacích a transferu znalostí",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2025/328-2025.md",
-  "ucinnost_od": "2026-09-01",
-  "zmena": "2025-09-29T20:47:40.921"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:48:04.314"
  },
  "329/1920 Sb.": {
   "dokument_id": "60159",
@@ -110719,19 +110759,20 @@
   "zmena": "2024-05-22T17:58:55.252"
  },
  "359/1992 Sb.": {
-  "dokument_id": "90871",
+  "dokument_id": "2081029",
   "nazev": "Zákon České národní rady o zeměměřických a katastrálních orgánech",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1992/359-1992.md",
-  "ucinnost_od": "2024-01-01",
-  "zmena": "2024-05-22T18:29:27.833"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:26:50.463"
  },
  "359/1999 Sb.": {
-  "dokument_id": "2056751",
+  "dokument_id": "2081129",
   "nazev": "Zákon o sociálně-právní ochraně dětí",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/1999/359-1999.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-10-07T17:41:57.166"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:31:26.448"
  },
  "359/2000 Sb.": {
   "dokument_id": "107629",
@@ -112715,11 +112756,12 @@
   "zmena": "2024-05-22T22:22:47.471"
  },
  "365/2000 Sb.": {
-  "dokument_id": "1882849",
+  "dokument_id": "2081191",
   "nazev": "Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2000/365-2000.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-08-18T21:21:11.006"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:34:39.234"
  },
  "365/2001 Sb.": {
   "dokument_id": "110863",
@@ -115163,11 +115205,12 @@
   "zmena": "2024-05-23T05:20:43.744"
  },
  "373/2011 Sb.": {
-  "dokument_id": "2059831",
+  "dokument_id": "2081317",
   "nazev": "Zákon o specifických zdravotních službách",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2011/373-2011.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-11-03T13:59:41.962"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:44:52.255"
  },
  "373/2012 Sb.": {
   "dokument_id": "49515",
@@ -116069,11 +116112,12 @@
   "zmena": "2024-05-23T03:54:15.207"
  },
  "378/2007 Sb.": {
-  "dokument_id": "2055829",
+  "dokument_id": "2081299",
   "nazev": "Zákon o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech)",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2007/378-2007.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-09-29T08:46:19.631"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:43:34.918"
  },
  "378/2008 Sb.": {
   "dokument_id": "130927",
@@ -118605,11 +118649,12 @@
   "zmena": "2024-05-22T17:12:01.225"
  },
  "388/1991 Sb.": {
-  "dokument_id": "917949",
+  "dokument_id": "2081005",
   "nazev": "Zákon České národní rady o Státním fondu životního prostředí České republiky",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1991/388-1991.md",
-  "ucinnost_od": "2025-01-01",
-  "zmena": "2025-02-06T18:52:20.874"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:25:27.839"
  },
  "388/1992 Sb.": {
   "dokument_id": "92771",
@@ -124108,12 +124153,12 @@
   "zmena": "2024-05-22T19:39:10.397"
  },
  "406/2000 Sb.": {
-  "dokument_id": "2057667",
+  "dokument_id": "2081195",
   "nazev": "Zákon o hospodaření energií",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2000/406-2000.md",
-  "ucinnost_od": "2026-08-01",
-  "zmena": "2025-10-20T17:00:40.938"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:34:48.741"
  },
  "406/2001 Sb.": {
   "dokument_id": "111059",
@@ -128692,11 +128737,12 @@
   "zmena": "2024-05-22T17:11:40.540"
  },
  "424/1991 Sb.": {
-  "dokument_id": "2073137",
+  "dokument_id": "2081009",
   "nazev": "Zákon o sdružování v politických stranách a v politických hnutích",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1991/424-1991.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2026-07-01T16:45:57.134"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:25:31.537"
  },
  "424/1992 Sb.": {
   "dokument_id": "29535",
@@ -136314,12 +136360,12 @@
   "zmena": "2024-05-23T05:07:55.598"
  },
  "456/2011 Sb.": {
-  "dokument_id": "1882103",
+  "dokument_id": "2081321",
   "nazev": "Zákon o Finanční správě České republiky",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2011/456-2011.md",
-  "ucinnost_od": "2025-07-01",
-  "zmena": "2025-08-05T07:49:15.439"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:45:12.643"
  },
  "456/2012 Sb.": {
   "dokument_id": "139263",
@@ -136575,12 +136621,12 @@
   "zmena": "2024-05-22T10:01:53.281"
  },
  "458/2000 Sb.": {
-  "dokument_id": "2057679",
+  "dokument_id": "2081201",
   "nazev": "Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon)",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2000/458-2000.md",
-  "ucinnost_od": "2026-08-01",
-  "zmena": "2025-10-20T17:02:12.626"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:35:05.525"
  },
  "458/2001 Sb.": {
   "dokument_id": "111391",
@@ -139689,12 +139735,12 @@
   "zmena": "2024-05-28T15:34:44.983"
  },
  "47/2002 Sb.": {
-  "dokument_id": "2056289",
+  "dokument_id": "2081223",
   "nazev": "Zákon o podpoře malého a středního podnikání a o změně zákona č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění pozdějších předpisů",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2002/47-2002.md",
-  "ucinnost_od": "2025-02-19",
-  "zmena": "2025-09-30T07:23:33.248"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:38:09.680"
  },
  "47/2002 Sb. m. s.": {
   "dokument_id": "220207",
@@ -141701,12 +141747,12 @@
   "zmena": "2024-05-22T10:02:43.137"
  },
  "48/1997 Sb.": {
-  "dokument_id": "2057017",
+  "dokument_id": "2081113",
   "nazev": "Zákon o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů",
   "pristi_zneni_od": "2028-01-01",
   "soubor": "zakony/1997/48-1997.md",
-  "ucinnost_od": "2026-10-01",
-  "zmena": "2025-10-09T08:33:56.052"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:29:38.026"
  },
  "48/1998 Sb.": {
   "dokument_id": "101177",
@@ -143556,11 +143602,12 @@
   "zmena": "2024-05-22T10:02:43.137"
  },
  "49/1997 Sb.": {
-  "dokument_id": "2060077",
+  "dokument_id": "2081121",
   "nazev": "Zákon o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1997/49-1997.md",
-  "ucinnost_od": "2025-11-01",
-  "zmena": "2025-11-03T22:26:46.029"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:30:53.065"
  },
  "49/1998 Sb.": {
   "dokument_id": "101181",
@@ -144867,11 +144914,12 @@
   "zmena": "2024-05-22T10:05:02.571"
  },
  "499/2004 Sb.": {
-  "dokument_id": "391413",
+  "dokument_id": "2081257",
   "nazev": "Zákon o archivnictví a spisové službě a o změně některých zákonů",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2004/499-2004.md",
-  "ucinnost_od": "2025-01-01",
-  "zmena": "2024-10-16T10:25:41.665"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:39:37.694"
  },
  "499/2005 Sb.": {
   "dokument_id": "124107",
@@ -146745,12 +146793,12 @@
   "zmena": "2024-05-23T03:57:48.438"
  },
  "503/2012 Sb.": {
-  "dokument_id": "1883397",
+  "dokument_id": "2081327",
   "nazev": "Zákon o Státním pozemkovém úřadu a o změně některých souvisejících zákonů",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2012/503-2012.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-09-02T08:14:49.943"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:45:28.875"
  },
  "503/2020 Sb.": {
   "dokument_id": "2055669",
@@ -154993,12 +155041,12 @@
   "zmena": "2024-05-23T00:40:29.675"
  },
  "561/2004 Sb.": {
-  "dokument_id": "2057083",
+  "dokument_id": "2081261",
   "nazev": "Zákon o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon)",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/2004/561-2004.md",
-  "ucinnost_od": "2026-09-01",
-  "zmena": "2025-10-09T08:37:11.111"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:39:51.346"
  },
  "561/2006 Sb.": {
   "dokument_id": "127549",
@@ -157617,12 +157665,12 @@
   "zmena": "2024-05-22T10:01:17.705"
  },
  "582/1991 Sb.": {
-  "dokument_id": "2071983",
+  "dokument_id": "2081013",
   "nazev": "Zákon České národní rady o organizaci a provádění sociálního zabezpečení",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/1991/582-1991.md",
-  "ucinnost_od": "2026-07-01",
-  "zmena": "2026-06-25T16:14:20.505"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:25:38.456"
  },
  "582/1992 Sb.": {
   "dokument_id": "92575",
@@ -157962,12 +158010,12 @@
   "zmena": "2024-05-22T17:09:58.316"
  },
  "589/1992 Sb.": {
-  "dokument_id": "2071899",
+  "dokument_id": "2081033",
   "nazev": "Zákon České národní rady o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/1992/589-1992.md",
-  "ucinnost_od": "2026-07-01",
-  "zmena": "2026-06-25T08:05:01.104"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:26:55.605"
  },
  "589/2002 Sb.": {
   "dokument_id": "39341",
@@ -158803,11 +158851,12 @@
   "zmena": "2024-05-22T17:09:54.644"
  },
  "592/1992 Sb.": {
-  "dokument_id": "2071271",
+  "dokument_id": "2081039",
   "nazev": "Zákon České národní rady  o pojistném na veřejné zdravotní pojištění",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1992/592-1992.md",
-  "ucinnost_od": "2026-05-27",
-  "zmena": "2026-06-12T07:48:08.352"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:27:09.218"
  },
  "592/2004 Sb.": {
   "dokument_id": "120951",
@@ -159504,11 +159553,12 @@
   "zmena": "2024-05-28T15:34:42.062"
  },
  "6/2002 Sb.": {
-  "dokument_id": "1883877",
+  "dokument_id": "2081219",
   "nazev": "Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích)",
+  "pristi_zneni_od": "",
   "soubor": "zakony/2002/6-2002.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-09-10T08:56:24.759"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:37:54.331"
  },
  "6/2002 Sb. m. s.": {
   "dokument_id": "220125",
@@ -161200,11 +161250,12 @@
   "zmena": "2024-05-22T16:41:56.510"
  },
  "61/1988 Sb.": {
-  "dokument_id": "1881089",
+  "dokument_id": "2080997",
   "nazev": "Zákon České národní rady o hornické činnosti, výbušninách a o státní báňské správě",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1988/61-1988.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-07-25T08:11:17.142"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:25:09.905"
  },
  "61/1989 Sb.": {
   "dokument_id": "25409",
@@ -163916,11 +163967,12 @@
   "zmena": "2024-05-22T16:33:40.065"
  },
  "64/1986 Sb.": {
-  "dokument_id": "81217",
+  "dokument_id": "2080993",
   "nazev": "Zákon České národní rady o České obchodní inspekci",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1986/64-1986.md",
-  "ucinnost_od": "2022-02-01",
-  "zmena": "2024-05-22T16:37:02.834"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:25:02.561"
  },
  "64/1987 Sb.": {
   "dokument_id": "24039",
@@ -171684,12 +171736,12 @@
   "zmena": "2024-05-28T15:36:20.329"
  },
  "73/2011 Sb.": {
-  "dokument_id": "2076889",
+  "dokument_id": "2081307",
   "nazev": "Zákon o Úřadu práce České republiky a o změně souvisejících zákonů",
   "pristi_zneni_od": "2028-06-01",
   "soubor": "zakony/2011/73-2011.md",
-  "ucinnost_od": "2026-09-01",
-  "zmena": "2026-08-17T13:53:29.396"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:44:21.527"
  },
  "73/2011 Sb. m. s.": {
   "dokument_id": "222407",
@@ -182890,12 +182942,12 @@
   "zmena": "2024-05-22T20:13:39.701"
  },
  "89/1995 Sb.": {
-  "dokument_id": "2059731",
+  "dokument_id": "2081081",
   "nazev": "Zákon o státní statistické službě",
   "pristi_zneni_od": "2027-01-01",
   "soubor": "zakony/1995/89-1995.md",
-  "ucinnost_od": "2026-01-01",
-  "zmena": "2025-11-03T13:53:52.446"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:28:19.507"
  },
  "89/1996 Sb.": {
   "dokument_id": "98469",
@@ -188672,11 +188724,12 @@
   "zmena": "2024-05-22T19:43:14.914"
  },
  "97/1993 Sb.": {
-  "dokument_id": "1882913",
+  "dokument_id": "2081055",
   "nazev": "Zákon o působnosti Správy státních hmotných rezerv",
+  "pristi_zneni_od": "",
   "soubor": "zakony/1993/97-1993.md",
-  "ucinnost_od": "2025-08-19",
-  "zmena": "2025-08-19T07:02:29.283"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:27:28.840"
  },
  "97/1994 Sb.": {
   "dokument_id": "31209",
@@ -189709,12 +189762,12 @@
   "zmena": "2024-05-22T09:57:25.013"
  },
  "99/1963 Sb.": {
-  "dokument_id": "2055627",
+  "dokument_id": "2080981",
   "nazev": "Občanský soudní řád",
   "pristi_zneni_od": "2027-09-01",
   "soubor": "zakony/1963/99-1963.md",
-  "ucinnost_od": "2026-09-01",
-  "zmena": "2025-09-25T17:53:28.148"
+  "ucinnost_od": "2026-11-01",
+  "zmena": "2026-11-09T08:24:03.008"
  },
  "99/1964 Sb.": {
   "dokument_id": "70435",

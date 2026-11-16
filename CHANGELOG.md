@@ -3,6 +3,111 @@
 Co se kdy změnilo ve sbírce. Zapisuje `tools/changelog.py` po každé aktualizaci;
 strojový tvar téhož je v `.zmeny/posledni.json`.
 
+## 2026-11-16
+
+1 nových, 94 změněných.
+
+- **[[141-1961|141/1961 Sb.]]** Zákon o trestním řízení soudním (trestní řád) — znění k 2026-11-01 (novelizuje: 57/1965 Sb., 149/1969 Sb., 48/1973 Sb., 29/1978 Sb., 43/1980 Sb., 159/1989 Sb.)
+- **[[99-1963|99/1963 Sb.]]** Občanský soudní řád — znění k 2026-11-01 (novelizuje: 36/1967 Sb., 158/1969 Sb., 49/1973 Sb., 20/1975 Sb., 133/1982 Sb., 180/1990 Sb.)
+- **[[2-1969|2/1969 Sb.]]** Zákon České národní rady  o zřízení ministerstev a jiných ústředních orgánů státní správy České socialistické republiky — znění k 2026-11-01 (novelizuje: 147/1970 Sb., 25/1976 Sb., 118/1983 Sb., 60/1988 Sb., 173/1989 Sb., 203/1990 Sb.)
+- **[[64-1986|64/1986 Sb.]]** Zákon České národní rady o České obchodní inspekci — znění k 2026-11-01 (novelizuje: 11/1987 Sb., 240/1992 Sb., 110/1997 Sb., 22/1997 Sb., 189/1999 Sb., 145/2000 Sb.)
+- **[[61-1988|61/1988 Sb.]]** Zákon České národní rady o hornické činnosti, výbušninách a o státní báňské správě — znění k 2026-11-01 (novelizuje: 425/1990 Sb., 542/1991 Sb., 169/1993 Sb., 128/1999 Sb., 71/2000 Sb., 124/2000 Sb.)
+- **[[15-1990|15/1990 Sb.]]** Zákon o politických stranách — znění k 1990-01-23
+- **[[282-1991|282/1991 Sb.]]** Zákon České národní rady o České inspekci životního prostředí a její působnosti v ochraně lesa — znění k 2026-11-01 (novelizuje: 149/2003 Sb., 222/2006 Sb., 167/2008 Sb., 64/2014 Sb., 250/2014 Sb., 197/2026 Sb.)
+- **[[388-1991|388/1991 Sb.]]** Zákon České národní rady o Státním fondu životního prostředí České republiky — znění k 2026-11-01 (novelizuje: 334/1992 Sb., 254/2001 Sb., 482/2004 Sb., 346/2009 Sb., 239/2012 Sb., 250/2014 Sb.)
+- **[[424-1991|424/1991 Sb.]]** Zákon o sdružování v politických stranách a v politických hnutích — znění k 2026-11-01 (novelizuje: 468/1991 Sb., 68/1993 Sb., 189/1993 Sb., 117/1994 Sb., 296/1995 Sb., 322/1996 Sb.)
+- **[[468-1991|468/1991 Sb.]]** Zákon o provozování rozhlasového a televizního vysílání — znění k 2001-01-25 (novelizuje: 597/1992 Sb., 36/1993 Sb., 253/1994 Sb., 40/1995 Sb., 301/1995 Sb., 237/1995 Sb.)
+- **[[582-1991|582/1991 Sb.]]** Zákon České národní rady o organizaci a provádění sociálního zabezpečení — znění k 2026-11-01; dotčeno: § 3b (novelizuje: 590/1992 Sb., 160/1993 Sb., 307/1993 Sb., 241/1994 Sb., 118/1995 Sb., 160/1995 Sb.)
+- **[[103-1992|103/1992 Sb.]]** Zákon České národní rady o Radě České republiky pro rozhlasové a televizní vysílání — znění k 2000-07-01 (novelizuje: 474/1992 Sb., 36/1993 Sb., 331/1993 Sb., 253/1994 Sb., 301/1995 Sb., 135/1997 Sb.)
+- **[[114-1992|114/1992 Sb.]]** Zákon České národní rady o ochraně přírody a krajiny — znění k 2026-11-01 (novelizuje: 347/1992 Sb., 289/1995 Sb., 16/1997 Sb., 3/1997 Sb., 123/1998 Sb., 161/1999 Sb.)
+- **[[359-1992|359/1992 Sb.]]** Zákon České národní rady o zeměměřických a katastrálních orgánech — znění k 2026-11-01 (novelizuje: 107/1994 Sb., 200/1994 Sb., 62/1997 Sb., 132/2000 Sb., 186/2001 Sb., 175/2003 Sb.)
+- **[[589-1992|589/1992 Sb.]]** Zákon České národní rady o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti — znění k 2026-11-01 (novelizuje: 10/1993 Sb., 160/1993 Sb., 307/1993 Sb., 42/1994 Sb., 241/1994 Sb., 59/1995 Sb.)
+- **[[592-1992|592/1992 Sb.]]** Zákon České národní rady  o pojistném na veřejné zdravotní pojištění — znění k 2026-11-01 (novelizuje: 10/1993 Sb., 15/1993 Sb., 161/1993 Sb., 324/1993 Sb., 42/1994 Sb., 241/1994 Sb.)
+- **[[14-1993|14/1993 Sb.]]** Zákon České národní rady o opatřeních na ochranu průmyslového vlastnictví — znění k 2026-11-01 (novelizuje: 250/2014 Sb., 197/2026 Sb.)
+- **[[166-1993|166/1993 Sb.]]** Zákon o Nejvyšším kontrolním úřadu — znění k 2026-11-01 (novelizuje: 331/1993 Sb., 224/1994 Sb., 117/1994 Sb., 58/1995 Sb., 148/1998 Sb., 220/2000 Sb.)
+- **[[19-1993|19/1993 Sb.]]** Zákon České národní rady o orgánech státní správy České republiky v oblasti puncovnictví a zkoušení drahých kovů — znění k 2026-11-01 (novelizuje: 157/2006 Sb., 250/2014 Sb., 387/2024 Sb., 197/2026 Sb.)
+- **[[20-1993|20/1993 Sb.]]** Zákon České národní rady o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví — znění k 2026-11-01 (novelizuje: 22/1997 Sb., 119/2000 Sb., 137/2002 Sb., 250/2014 Sb., 197/2026 Sb.)
+- **[[97-1993|97/1993 Sb.]]** Zákon o působnosti Správy státních hmotných rezerv — znění k 2026-11-01 (novelizuje: 272/1996 Sb., 189/1999 Sb., 241/2000 Sb., 256/2000 Sb., 419/2004 Sb., 174/2007 Sb.)
+- **[[111-1994|111/1994 Sb.]]** Zákon o silniční dopravě — znění k 2026-11-01 (novelizuje: 38/1995 Sb., 304/1997 Sb., 150/2000 Sb., 361/2000 Sb., 132/2000 Sb., 175/2002 Sb.)
+- **[[153-1994|153/1994 Sb.]]** Zákon o zpravodajských službách České republiky — znění k 2026-11-01 (novelizuje: 118/1995 Sb., 362/2003 Sb., 53/2004 Sb., 290/2005 Sb., 530/2005 Sb., 80/2006 Sb.)
+- **[[200-1994|200/1994 Sb.]]** Zákon o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením — znění k 2026-11-01 (novelizuje: 120/2000 Sb., 186/2001 Sb., 319/2004 Sb., 413/2005 Sb., 444/2005 Sb., 124/2008 Sb.)
+- **[[266-1994|266/1994 Sb.]]** Zákon o dráhách — znění k 2026-11-01 (novelizuje: 189/1999 Sb., 23/2000 Sb., 71/2000 Sb., 132/2000 Sb., 77/2002 Sb., 175/2002 Sb.)
+- **[[114-1995|114/1995 Sb.]]** Zákon o vnitrozemské plavbě — znění k 2026-11-01 (novelizuje: 358/1999 Sb., 320/2002 Sb., 118/2004 Sb., 186/2006 Sb., 309/2008 Sb., 124/2008 Sb.)
+- **[[155-1995|155/1995 Sb.]]** Zákon o důchodovém pojištění — znění k 2026-11-01 (novelizuje: 134/1997 Sb., 289/1997 Sb., 224/1999 Sb., 18/2000 Sb., 118/2000 Sb., 220/2000 Sb.)
+- **[[89-1995|89/1995 Sb.]]** Zákon o státní statistické službě — znění k 2026-11-01 (novelizuje: 356/1999 Sb., 411/2000 Sb., 220/2000 Sb., 256/2000 Sb., 202/2002 Sb., 320/2002 Sb.)
+- **[[273-1996|273/1996 Sb.]]** Zákon o působnosti Úřadu pro ochranu hospodářské soutěže — znění k 2026-11-01 (novelizuje: 187/1999 Sb., 359/2004 Sb., 626/2004 Sb., 264/2006 Sb., 417/2009 Sb., 250/2014 Sb.)
+- **[[13-1997|13/1997 Sb.]]** Zákon o pozemních komunikacích — znění k 2026-11-01 (novelizuje: 102/2000 Sb., 132/2000 Sb., 489/2001 Sb., 256/2002 Sb., 259/2002 Sb., 320/2002 Sb.)
+- **[[48-1997|48/1997 Sb.]]** Zákon o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů — znění k 2026-11-01; dotčeno: § 61 (novelizuje: 242/1997 Sb., 2/1998 Sb., 127/1998 Sb., 225/1999 Sb., 363/1999 Sb., 18/2000 Sb.)
+- **[[49-1997|49/1997 Sb.]]** Zákon o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů — znění k 2026-11-01 (novelizuje: 189/1999 Sb., 146/2000 Sb., 258/2002 Sb., 167/2004 Sb., 413/2005 Sb., 225/2006 Sb.)
+- **[[166-1999|166/1999 Sb.]]** Zákon o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon) — znění k 2026-11-01 (novelizuje: 29/2000 Sb., 102/2001 Sb., 76/2002 Sb., 120/2002 Sb., 320/2002 Sb., 131/2003 Sb.)
+- **[[359-1999|359/1999 Sb.]]** Zákon o sociálně-právní ochraně dětí — znění k 2026-11-01 (novelizuje: 257/2000 Sb., 272/2001 Sb., 518/2002 Sb., 320/2002 Sb., 222/2003 Sb., 52/2004 Sb.)
+- **[[104-2000|104/2000 Sb.]]** Zákon o Státním fondu dopravní infrastruktury a o změně zákona č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů — znění k 2026-11-01 (novelizuje: 482/2004 Sb., 179/2005 Sb., 80/2006 Sb., 152/2011 Sb., 196/2012 Sb., 239/2012 Sb.)
+- **[[129-2000|129/2000 Sb.]]** Zákon o krajích (krajské zřízení) — znění k 2026-11-01 (novelizuje: 450/2001 Sb., 320/2001 Sb., 273/2001 Sb., 231/2002 Sb., 229/2003 Sb., 216/2004 Sb.)
+- **[[131-2000|131/2000 Sb.]]** Zákon o hlavním městě Praze — znění k 2026-11-01 (novelizuje: 145/2001 Sb., 273/2001 Sb., 450/2001 Sb., 320/2001 Sb., 312/2002 Sb., 311/2002 Sb.)
+- **[[154-2000|154/2000 Sb.]]** Zákon o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon) — znění k 2026-11-01 (novelizuje: 282/2003 Sb., 162/2003 Sb., 444/2005 Sb., 130/2006 Sb., 182/2008 Sb., 291/2009 Sb.)
+- **[[156-2000|156/2000 Sb.]]** Zákon o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů — znění k 2026-11-01 (novelizuje: 119/2002 Sb., 227/2003 Sb., 444/2005 Sb., 36/2008 Sb., 155/2010 Sb., 148/2010 Sb.)
+- **[[218-2000|218/2000 Sb.]]** Zákon o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla) — znění k 2026-11-01 (novelizuje: 493/2000 Sb., 141/2001 Sb., 187/2001 Sb., 320/2001 Sb., 450/2001 Sb., 202/2002 Sb.)
+- **[[248-2000|248/2000 Sb.]]** Zákon o podpoře regionálního rozvoje — znění k 2026-11-01 (novelizuje: 320/2002 Sb., 109/2006 Sb., 138/2006 Sb., 186/2006 Sb., 66/2007 Sb., 154/2009 Sb.)
+- **[[256-2000|256/2000 Sb.]]** Zákon o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu) — znění k 2026-11-01 (novelizuje: 128/2003 Sb., 85/2004 Sb., 482/2004 Sb., 441/2005 Sb., 130/2006 Sb., 35/2008 Sb.)
+- **[[258-2000|258/2000 Sb.]]** Zákon o ochraně veřejného zdraví a o změně některých souvisejících zákonů — znění k 2026-11-01 (novelizuje: 254/2001 Sb., 274/2001 Sb., 86/2002 Sb., 13/2002 Sb., 120/2002 Sb., 320/2002 Sb.)
+- **[[309-2000|309/2000 Sb.]]** Zákon o obranné standardizaci, katalogizaci a státním ověřování jakosti výrobků a služeb určených k zajištění obrany státu a o změně živnostenského zákona — znění k 2026-11-01 (novelizuje: 413/2005 Sb., 250/2014 Sb., 197/2026 Sb.)
+- **[[365-2000|365/2000 Sb.]]** Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů — znění k 2026-11-01 (novelizuje: 517/2002 Sb., 413/2005 Sb., 444/2005 Sb., 70/2006 Sb., 81/2006 Sb., 110/2007 Sb.)
+- **[[406-2000|406/2000 Sb.]]** Zákon o hospodaření energií — znění k 2026-11-01 (novelizuje: 359/2003 Sb., 694/2004 Sb., 180/2005 Sb., 177/2006 Sb., 214/2006 Sb., 574/2006 Sb.)
+- **[[458-2000|458/2000 Sb.]]** Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon) — znění k 2026-11-01 (novelizuje: 262/2002 Sb., 278/2003 Sb., 670/2004 Sb., 186/2006 Sb., 124/2008 Sb., 158/2009 Sb.)
+- **[[115-2001|115/2001 Sb.]]** Zákon o podpoře sportu — znění k 2026-11-01; dotčeno: § 3d, § 3e (novelizuje: 219/2005 Sb., 186/2006 Sb., 274/2008 Sb., 183/2010 Sb., 375/2011 Sb., 230/2016 Sb.)
+- **[[231-2001|231/2001 Sb.]]** Zákon o provozování rozhlasového a televizního vysílání a o změně dalších zákonů — znění k 2026-11-01 (novelizuje: 274/2003 Sb., 341/2004 Sb., 626/2004 Sb., 501/2004 Sb., 82/2005 Sb., 127/2005 Sb.)
+- **[[130-2002|130/2002 Sb.]]** Zákon o podpoře výzkumu a vývoje z veřejných prostředků a o změně některých souvisejících zákonů (zákon o podpoře výzkumu a vývoje) — znění k 2026-11-01 (novelizuje: 342/2005 Sb., 413/2005 Sb., 227/2006 Sb., 81/2006 Sb., 171/2007 Sb., 124/2008 Sb.)
+- **[[146-2002|146/2002 Sb.]]** Zákon o Státní zemědělské a potravinářské inspekci a o změně některých souvisejících zákonů — znění k 2026-11-01 (novelizuje: 94/2004 Sb., 316/2004 Sb., 321/2004 Sb., 444/2005 Sb., 120/2008 Sb., 291/2009 Sb.)
+- **[[147-2002|147/2002 Sb.]]** Zákon o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých souvisejících zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském) — znění k 2026-11-01 (novelizuje: 21/2004 Sb., 321/2004 Sb., 317/2004 Sb., 441/2005 Sb., 553/2005 Sb., 291/2009 Sb.)
+- **[[150-2002|150/2002 Sb.]]** Zákon soudní řád správní — znění k 2026-11-01; dotčeno: § 101e, § 101f (novelizuje: 192/2003 Sb., 22/2004 Sb., 237/2004 Sb., 555/2004 Sb., 436/2004 Sb., 127/2005 Sb.)
+- **[[201-2002|201/2002 Sb.]]** Zákon o Úřadu pro zastupování státu ve věcech majetkových — znění k 2026-11-01 (novelizuje: 120/2004 Sb., 626/2004 Sb., 57/2006 Sb., 160/2006 Sb., 153/2009 Sb., 503/2012 Sb.)
+- **[[312-2002|312/2002 Sb.]]** Zákon o úřednících územních samosprávných celků a o změně některých zákonů — znění k 2026-11-01; dotčeno: § 11 (novelizuje: 46/2004 Sb., 264/2006 Sb., 234/2006 Sb., 250/2014 Sb., 448/2024 Sb., 196/2024 Sb.)
+- **[[47-2002|47/2002 Sb.]]** Zákon o podpoře malého a středního podnikání a o změně zákona č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění pozdějších předpisů — znění k 2026-11-01 (novelizuje: 1/2004 Sb., 690/2004 Sb., 149/2016 Sb., 35/2025 Sb., 329/2025 Sb., 197/2026 Sb.)
+- **[[6-2002|6/2002 Sb.]]** Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích) — znění k 2026-11-01 (novelizuje: 349/2002 Sb., 228/2002 Sb., 192/2003 Sb., 441/2003 Sb., 626/2004 Sb., 349/2005 Sb.)
+- **[[326-2004|326/2004 Sb.]]** Zákon o rostlinolékařské péči a o změně některých souvisejících zákonů — znění k 2026-11-01 (novelizuje: 626/2004 Sb., 444/2005 Sb., 131/2006 Sb., 249/2008 Sb., 189/2008 Sb., 291/2009 Sb.)
+- **[[499-2004|499/2004 Sb.]]** Zákon o archivnictví a spisové službě a o změně některých zákonů — znění k 2026-11-01 (novelizuje: 444/2005 Sb., 413/2005 Sb., 112/2006 Sb., 181/2007 Sb., 32/2008 Sb., 190/2009 Sb.)
+- **[[561-2004|561/2004 Sb.]]** Zákon o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon) — znění k 2026-11-01 (novelizuje: 383/2005 Sb., 112/2006 Sb., 179/2006 Sb., 165/2006 Sb., 161/2006 Sb., 158/2006 Sb.)
+- **[[127-2005|127/2005 Sb.]]** Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích) — znění k 2026-11-01 (novelizuje: 361/2005 Sb., 290/2005 Sb., 235/2006 Sb., 310/2006 Sb., 186/2006 Sb., 110/2007 Sb.)
+- **[[251-2005|251/2005 Sb.]]** Zákon o inspekci práce — znění k 2026-11-01 (novelizuje: 230/2006 Sb., 264/2006 Sb., 362/2007 Sb., 213/2007 Sb., 382/2008 Sb., 294/2008 Sb.)
+- **[[159-2006|159/2006 Sb.]]** Zákon o střetu zájmů — znění k 2026-11-01 (novelizuje: 216/2008 Sb., 158/2009 Sb., 350/2009 Sb., 281/2009 Sb., 167/2012 Sb., 503/2012 Sb.)
+- **[[187-2006|187/2006 Sb.]]** Zákon o nemocenském pojištění — znění k 2026-11-01 (novelizuje: 585/2006 Sb., 261/2007 Sb., 181/2007 Sb., 305/2008 Sb., 306/2008 Sb., 239/2008 Sb.)
+- **[[262-2006|262/2006 Sb.]]** Zákon zákoník práce — znění k 2026-11-01 (novelizuje: 585/2006 Sb., 181/2007 Sb., 261/2007 Sb., 362/2007 Sb., 296/2007 Sb., 116/2008 Sb.)
+- **[[181-2007|181/2007 Sb.]]** Zákon o Ústavu pro studium totalitních režimů a o Archivu bezpečnostních složek a o změně některých zákonů — znění k 2026-11-01 (novelizuje: 160/2008 Sb., 167/2012 Sb., 250/2014 Sb., 197/2026 Sb.)
+- **[[378-2007|378/2007 Sb.]]** Zákon o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech) — znění k 2026-11-01 (novelizuje: 296/2008 Sb., 124/2008 Sb., 141/2009 Sb., 291/2009 Sb., 281/2009 Sb., 75/2011 Sb.)
+- **[[253-2008|253/2008 Sb.]]** Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu — znění k 2026-11-01 (novelizuje: 285/2009 Sb., 281/2009 Sb., 199/2010 Sb., 428/2011 Sb., 457/2011 Sb., 18/2012 Sb.)
+- **[[262-2011|262/2011 Sb.]]** Zákon o účastnících odboje a odporu proti komunismu — znění k 2026-11-01 (novelizuje: 250/2014 Sb., 318/2015 Sb., 195/2016 Sb., 412/2023 Sb., 28/2024 Sb., 266/2024 Sb.)
+- **[[373-2011|373/2011 Sb.]]** Zákon o specifických zdravotních službách — znění k 2026-11-01 (novelizuje: 167/2012 Sb., 47/2013 Sb., 82/2015 Sb., 205/2015 Sb., 264/2016 Sb., 298/2016 Sb.)
+- **[[456-2011|456/2011 Sb.]]** Zákon o Finanční správě České republiky — znění k 2026-11-01; dotčeno: § 14a (novelizuje: 458/2011 Sb., 407/2012 Sb., 164/2013 Sb., 241/2013 Sb., 250/2014 Sb., 267/2014 Sb.)
+- **[[73-2011|73/2011 Sb.]]** Zákon o Úřadu práce České republiky a o změně souvisejících zákonů — znění k 2026-11-01 (novelizuje: 366/2011 Sb., 331/2012 Sb., 401/2012 Sb., 306/2013 Sb., 254/2014 Sb., 250/2014 Sb.)
+- **[[503-2012|503/2012 Sb.]]** Zákon o Státním pozemkovém úřadu a o změně některých souvisejících zákonů — znění k 2026-11-01 (novelizuje: 280/2013 Sb., 250/2014 Sb., 185/2016 Sb., 295/2017 Sb., 225/2017 Sb., 229/2019 Sb.)
+- **[[226-2013|226/2013 Sb.]]** Zákon o uvádění dřeva a dřevařských výrobků na trh — znění k 2026-11-01 (novelizuje: 206/2019 Sb., 251/2025 Sb., 218/2025 Sb., 197/2026 Sb.)
+- **[[292-2013|292/2013 Sb.]]** Zákon o zvláštních řízeních soudních — znění k 2026-11-01 (novelizuje: 87/2015 Sb., 189/2016 Sb., 161/2016 Sb., 334/2016 Sb., 460/2016 Sb., 298/2016 Sb.)
+- **[[234-2014|234/2014 Sb.]]** Zákon o státní službě — znění k 2026-01-01 (novelizuje: 199/2015 Sb., 131/2015 Sb., 298/2015 Sb., 302/2016 Sb., 190/2016 Sb., 298/2016 Sb.)
+- **[[135-2015|135/2015 Sb.]]** Nařízení vlády o dalších překážkách ve státní službě, za které přísluší státnímu zaměstnanci plat — znění k 2025-01-01 (novelizuje: 310/2024 Sb.)
+- **[[137-2015|137/2015 Sb.]]** Nařízení vlády o dalších případech, ve kterých lze přijmout osobu do služebního poměru na dobu určitou — znění k 2017-03-07 (novelizuje: 44/2017 Sb.)
+- **[[144-2015|144/2015 Sb.]]** Nařízení vlády o výkonu státní služby z jiného místa a pravidlech pro vytvoření předpokladů sladění rodinného a osobního života s výkonem státní služby — znění k 2015-07-01
+- **[[161-2015|161/2015 Sb.]]** Nařízení vlády o výkonu státní služby na služebním působišti mimo území České republiky ve svátek — znění k 2015-07-01
+- **[[63-2015|63/2015 Sb.]]** Vyhláška o vzoru průkazu státního zaměstnance pověřeného vykonávat ve služebních úřadech kontrolu ve služebních vztazích státních zaměstnanců — znění k 2015-04-15
+- **[[26-2016|26/2016 Sb.]]** Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů — znění k 2016-01-25
+- **[[263-2016|263/2016 Sb.]]** Zákon atomový zákon — znění k 2026-11-01 (novelizuje: 403/2020 Sb., 284/2021 Sb., 465/2023 Sb., 83/2025 Sb., 197/2026 Sb.)
+- **[[144-2017|144/2017 Sb.]]** Zákon, kterým se mění zákon č. 234/2014 Sb., o státní službě, ve znění pozdějších předpisů — znění k 2017-06-01
+- **[[44-2017|44/2017 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 137/2015 Sb., o dalších případech, ve kterých lze přijmout osobu do služebního poměru na dobu určitou — znění k 2017-03-07
+- **[[110-2019|110/2019 Sb.]]** Zákon o zpracování osobních údajů — znění k 2026-11-01 (novelizuje: 448/2024 Sb., 230/2025 Sb., 218/2025 Sb., 197/2026 Sb.)
+- **[[12-2020|12/2020 Sb.]]** Zákon o právu na digitální služby a o změně některých zákonů — znění k 2026-11-01 (novelizuje: 261/2021 Sb., 471/2022 Sb., 1/2024 Sb., 23/2025 Sb., 197/2026 Sb.)
+- **[[269-2021|269/2021 Sb.]]** Zákon o občanských průkazech — znění k 2026-11-01 (novelizuje: 471/2022 Sb., 430/2023 Sb., 123/2024 Sb., 197/2026 Sb.)
+- **[[310-2024|310/2024 Sb.]]** Nařízení vlády, kterým se mění nařízení vlády č. 135/2015 Sb., o dalších překážkách ve státní službě, za které přísluší státnímu zaměstnanci plat — znění k 2025-01-01
+- **[[168-2025|168/2025 Sb.]]** Zákon o regulaci lobbování — znění k 2026-11-01 (novelizuje: 197/2026 Sb.)
+- **[[323-2025|323/2025 Sb.]]** Zákon o jednotném měsíčním hlášení zaměstnavatele — znění k 2026-11-01 (novelizuje: 197/2026 Sb.)
+- **[[328-2025|328/2025 Sb.]]** Zákon o výzkumu, vývoji, inovacích a transferu znalostí — znění k 2026-11-01 (novelizuje: 197/2026 Sb.)
+- **[[197-2026|197/2026 Sb.]]** Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích) — znění k 2026-11-01; dotčeno: Čl. I, Čl. II, Čl. III, Čl. IV, Čl. V, Čl. VI, Čl. VII, Čl. VIII, Čl. IX, Čl. X, Čl. XI, Čl. XII a dalších 80
+- **[[212-2026|212/2026 Sb.]]** Nařízení vlády o mimořádném pracovním vízu pro státní příslušníky některých států pracující v zemědělství, potravinářství nebo lesnictví — znění k 2026-11-03
+
+<details><summary>Nově přidáno (1)</summary>
+
+- [[216-2026|216/2026 Sb.]] Nařízení vlády, kterým se mění některá nařízení vlády související s opatřeními přijatými v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace
+
+</details>
+
 ## 2026-11-09
 
 6 nových, 72 změněných.

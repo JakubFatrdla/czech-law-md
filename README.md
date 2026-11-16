@@ -11,11 +11,11 @@ ustanoveních, takže agent dostane ten jeden paragraf místo celého kodexu.
 
 | | |
 |---|---|
-| **Sbírka zákonů** | 31 207 předpisů od roku 1918 |
+| **Sbírka zákonů** | 31 208 předpisů od roku 1918 |
 | **Mezinárodní smlouvy** | 2 263 |
 | **Právo EU** | 24 026 nařízení a směrnic česky |
-| **Judikatura** | 603 943 rozhodnutí, u 8 780 paragrafů |
-| dohromady | 57 496 předpisů, 482 659 ustanovení |
+| **Judikatura** | 603 943 rozhodnutí, u 8 800 paragrafů |
+| dohromady | 57 497 předpisů, 482 748 ustanovení |
 
 Je to zároveň Obsidian trezor — otevři složku v Obsidianu a máš rejstřík, prokliky mezi předpisy
 a tabulku v Bases. Bez Obsidianu je to obyčejný markdown, který přečte i poznámkový blok.

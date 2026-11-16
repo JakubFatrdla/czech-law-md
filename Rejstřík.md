@@ -5,7 +5,7 @@ tags:
 
 # Rejstřík předpisů
 
-Celkem 27,117 předpisů, z toho 10,372 zrušených — ty jsou označené ~~přeškrtnutím~~ a datem. **Nepracuj s nimi jako s platným právem.**
+Celkem 27,118 předpisů, z toho 10,372 zrušených — ty jsou označené ~~přeškrtnutím~~ a datem. **Nepracuj s nimi jako s platným právem.**
 
 Generuje `tools/rejstrik.py`, needituj ručně.
 
@@ -227,6 +227,7 @@ Nejnovější změny jsou v [[CHANGELOG]].
 - ~~[[212-2026|212/2026 Sb.]]~~ Nařízení vlády o mimořádném pracovním vízu pro státní příslušníky některých států pracující v zemědělství, potravinářství nebo lesnictví  — *zrušeno 2029-01-01*
 - [[213-2026|213/2026 Sb.]] Sdělení Ministerstva zahraničních věcí o sjednání Rámcové smlouvy mezi Českou republikou a Slovenskou republikou o přeshraniční spolupráci v oblasti zdravotnické záchranné služby
 - [[214-2026|214/2026 Sb.]] Vyhláška, kterou se mění vyhláška č. 122/2015 Sb., o způsobu vnějšího označení, služebních stejnokrojích a zvláštním barevném provedení a označení služebních vozidel, plavidel a letadel Policie České republiky a o prokazování příslušnosti k Policii České republiky (o policejním označení), ve znění pozdějších předpisů
+- [[216-2026|216/2026 Sb.]] Nařízení vlády, kterým se mění některá nařízení vlády související s opatřeními přijatými v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace
 
 ## 2025
 
